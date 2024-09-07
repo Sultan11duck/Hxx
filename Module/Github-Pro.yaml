@@ -1,0 +1,12 @@
+name: GitHub 1.142.1
+description: 除了AI功能，其他功能都可用
+scriptings:
+- http_response:
+    name: GitHub 1.142.1
+    match: https://api.github.com/graphql
+    script_url: https://raw.githubusercontent.com/czy13724/Quantumult-X/main/scripts/Github.js
+    timeout: 60
+    body_required: true
+mitm:
+  hostnames:
+  - api.github.com
