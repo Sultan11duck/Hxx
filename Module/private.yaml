@@ -1,0 +1,50 @@
+name: local
+description: local
+scriptings:
+- http_response:
+    name: auto
+    match: ^https?:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$)
+    script_url: https://raw.githubusercontent.com/sultan1sa/Revenuecat/main/generation/anybox/Rev.js
+    timeout: 10
+    body_required: true
+- http_response:
+    name: apphud
+    match: https:\/\/api\.apphud\.com\/v1\/(subscriptions|customers)
+    script_url: https://raw.githubusercontent.com/sultan1sa/AllinOneRewrite-/main/Apphud.js
+    timeout: 10
+    body_required: true
+- http_response:
+    name: mail10
+    match: api.qonversion.io/v1/user/init
+    script_url: https://raw.githubusercontent.com/sultan1sa/AllinOneRewrite-/main/10mail.js
+    timeout: 10
+    body_required: true
+- http_response:
+    name: chat Uncensored
+    match: https://api.adapty.io/api/v1/sdk/in-apps/apple/receipt/validate/
+    script_url: https://raw.githubusercontent.com/sultan1sa/AllinOneRewrite-/main/ChatUncensored.js
+    timeout: 10
+    body_required: true
+- http_request:
+    name: RewriteBoxJs
+    match: https?:\/\/boxjs\.(com|net)
+    script_url: https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js
+    timeout: 120
+    body_required: true
+- http_response:
+    name: iTunes
+    match: ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$
+    script_url: https://raw.githubusercontent.com/chxm1023/Rewrite/main/iTunes.js
+    timeout: 60
+    body_required: true
+mitm:
+  hostnames:
+  - api.revenuecat.com
+  - api.adapty.io
+  - api.qapi.qonversion.io
+  - api.apphud.com
+  - Boxjs.com
+  - '*.boxjs.net'
+  - '*.boxjs.com'
+  - buy.itunes.apple.com
+  - app-measurement.com
