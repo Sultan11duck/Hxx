@@ -1,0 +1,49 @@
+name: '[Sukka] Enhance Better ADBlock for Surge'
+description: 增强 ADBlock 效果、恢复网站正常功能
+url_rewrites:
+- match: ^https?://.*\.google-analytics\.com/analytics\.js
+  location: https://ruleset.skk.moe/Mock/www-google-analytics-com_analytics.js
+  status_code: 302
+- match: ^https?://.*\.googletagmanager\.com/gtm\.js
+  location: https://ruleset.skk.moe/Mock/www-google-analytics-com_analytics.js
+  status_code: 302
+- match: ^https?://.*\.google-analytics\.com/ga\.js
+  location: https://ruleset.skk.moe/Mock/www-google-analytics-com_ga.js
+  status_code: 302
+- match: ^https?://.*\.google-analytics\.com/cx/api\.js
+  location: https://ruleset.skk.moe/Mock/www-google-analytics-com_cx_api.js
+  status_code: 302
+- match: ^https?://.*\.googlesyndication\.com/adsbygoogle\.js
+  location: https://ruleset.skk.moe/Mock/www-googlesyndication-com_adsbygoogle.js
+  status_code: 302
+- match: ^https?://.*\.googletagservices\.com/gpt\.js
+  location: https://ruleset.skk.moe/Mock/www-googletagservices-com_gpt.js
+  status_code: 302
+- match: ^https?://.*\.google-analytics\.com/inpage_linkid\.js
+  location: https://ruleset.skk.moe/Mock/www-google-analytics-com_inpage_linkid.js
+  status_code: 302
+- match: ^https?://.*\.doubleclick\.net/instream/ad_status\.js
+  location: https://ruleset.skk.moe/Mock/doubleclick-net_instream_ad_status.js
+  status_code: 302
+- match: ^https?://cdn\.ampproject\.org/v0.js
+  location: https://ruleset.skk.moe/Mock/ampproject-org_v0.js
+  status_code: 302
+- match: ^https?://.*\.addthis\.com/addthis_widget.js
+  location: https://ruleset.skk.moe/Mock/addthis-com_addthis_widget.js
+  status_code: 302
+- match: ^https?://.*\.amazon-adsystem.com/aax2/apstag.js
+  location: https://ruleset.skk.moe/Mock/amazon-adsystem-com_amazon-apstag.js
+  status_code: 302
+- match: ^https?://static.chartbeat.com/chartbeat.js
+  location: https://ruleset.skk.moe/Mock/static-chartbeat-com_chartbeat_mab.js
+  status_code: 302
+mitm:
+  hostnames:
+  - '*.google-analytics.com'
+  - '*.googletagmanager.com'
+  - '*.googlesyndication.com'
+  - '*.googletagservices.com'
+  - '*.doubleclick.net'
+  - cdn.ampproject.org
+  - '*.addthis.com'
+  - static.chartbeat.com
