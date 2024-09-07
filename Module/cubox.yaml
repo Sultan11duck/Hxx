@@ -1,0 +1,13 @@
+name: CUBOXPRO
+description: CUBOX.PRO 
+scriptings:
+- http_response:
+    name: Cubox
+    match: ^https?:\/\/cubox\.(cc|pro)\/c\/api\/userInfo
+    script_url: https://raw.githubusercontent.com/Guding88/Script/main/Cubox.js
+    timeout: 60
+    body_required: true
+mitm:
+  hostnames:
+  - cubox.cc
+  - cubox.pro
