@@ -1,0 +1,12 @@
+name: qonversion
+description: qonversion
+scriptings:
+- http_response:
+    name: qonversion
+    match: ^https?:\/\/api\.qonversion\.io\/v\d\/user\/(init|purchase)
+    script_url: https://raw.githubusercontent.com/axtyet/Luminous/main/chxm1023/Rewrite/qonversion.js
+    timeout: 60
+    body_required: true
+mitm:
+  hostnames:
+  - api.qonversion.io
