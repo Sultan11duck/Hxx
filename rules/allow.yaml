@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Sultan11duck/Hxx/main/rules/allow.yaml
+#https://raw.githubusercontent.com/Sultan11duck/Hxx/main/rules/allow.yaml
 domain_set:
 - keybaseapi.com
 - s3.amazonaws.com
