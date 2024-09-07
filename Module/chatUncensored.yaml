@@ -1,0 +1,13 @@
+name: chat Uncensored
+description: chat Uncensored
+icon: https://play-lh.googleusercontent.com/AxLeuc02cHnZ3xxHGXyFNfRtHcu212lkCA5hEkcscWdSdlHHo3udSHzG1Fgw-0uu4JgC=w480-h960
+scriptings:
+- http_response:
+    name: Adapty
+    match: https://api.adapty.io/api/v1/sdk/analytics/profiles
+    script_url: https://raw.githubusercontent.com/sultan1sa/AllinOneRewrite-/main/ChatUncensored.js
+    timeout: 60
+    body_required: true
+mitm:
+  hostnames:
+  - api.adapty.io
