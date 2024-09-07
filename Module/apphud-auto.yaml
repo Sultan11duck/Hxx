@@ -1,0 +1,23 @@
+name: AppHud Universal
+description: 'Subscription needed: No'
+icon: https://raw.githubusercontent.com/Yarmukhamedov/mitm/main/images/logos/Apphud.png
+url_rewrites:
+- match: https://api.apphud.com/v1/subscriptions
+  location: https://api.apphud.com/v1/customers
+  status_code: 307
+scriptings:
+- http_response:
+    name: AppHud
+    match: https://api.apphud.com/v1/customers(?!\/(push_token|attribution))
+    script_url: https://raw.githubusercontent.com/Yarmukhamedov/mitm/main/scripts/AppHud.js
+    timeout: 10
+    body_required: true
+- http_request:
+    name: AppHud Paywalls
+    match: https://api.apphud.com/v1/customers(?!\/(push_token|attribution))
+    script_url: https://raw.githubusercontent.com/Yarmukhamedov/mitm/main/scripts/AppHudPaywalls.js
+    timeout: 10
+    body_required: true
+mitm:
+  hostnames:
+  - api.apphud.com
