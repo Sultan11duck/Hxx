@@ -1,0 +1,11 @@
+name: deepl api重定向到服务器
+description: deepl api重定向
+scriptings:
+- http_request:
+    name: ^https?:\/\/api-free\.deepl\.com\/v2\/translate
+    match: ^https?:\/\/api-free\.deepl\.com\/v2\/translate
+    script_url: https://raw.githubusercontent.com/RayYiHang/surge/main/deepl.js
+    body_required: true
+mitm:
+  hostnames:
+  - api-free.deepl.com
