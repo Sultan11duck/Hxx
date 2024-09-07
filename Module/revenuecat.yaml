@@ -1,0 +1,17 @@
+name: revenuecat local
+description: teak-jodel-atomicAI-INCOGINTO BROWSER
+scriptings:
+- http_response:
+    name: myconfig
+    match: ^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$)
+    script_url: https://raw.githubusercontent.com/sultan1sa/Rewrite/main/myconfig.js
+    timeout: 60
+    body_required: true
+- http_request:
+    name: myconfig
+    match: ^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$)
+    script_url: https://raw.githubusercontent.com/sultan1sa/Rewrite/main/myconfig.js
+    timeout: 60
+mitm:
+  hostnames:
+  - api.revenuecat.com
