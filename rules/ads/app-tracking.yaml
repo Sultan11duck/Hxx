@@ -1,3 +1,4 @@
+#https://raw.githubusercontent.com/Sultan11duck/Hxx/main/rules/ads/app-tracking.yaml
 no_resolve: true
 domain_suffix_set:
 - analytics.163.com
