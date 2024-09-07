@@ -1,0 +1,18 @@
+name: ROCHAT AI
+description: local
+scriptings:
+- http_response:
+    name: rochat
+    match: https://api.rochathub.com/inteco.user.v1.UserRightsService/GetUserRights
+    script_url: https://raw.githubusercontent.com/qingsiguan/mima/main/ro
+    timeout: 60
+    body_required: true
+- http_response:
+    name: rochat2
+    match: https://api.rochathub.com/inteco.user.v1.UserRightsService/GetUserRights
+    script_url: https://raw.githubusercontent.com/qingsiguan/mima/main/rochat22
+    timeout: 60
+    body_required: true
+mitm:
+  hostnames:
+  - api.rochathub.com
