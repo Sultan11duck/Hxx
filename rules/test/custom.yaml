@@ -39,7 +39,7 @@ domain_suffix_set:
 - analytics.twitter.com
 - ads-twitter.com
 - ads-api.twitter.com
-iip_cidr_set:
+ip_cidr_set:
 - 103.2.30.0/23
 - 125.209.208.0/20
 - 147.92.128.0/17
