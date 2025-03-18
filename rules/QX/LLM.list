@@ -1,0 +1,147 @@
+# ChatGPT
+HOST-SUFFIX,openai.com
+HOST-SUFFIX,chat.openai.com
+HOST-SUFFIX,chatgpt.com
+HOST-SUFFIX,ios.chat.openai.com
+HOST-SUFFIX,ab.chatgpt.com
+HOST-SUFFIX,api.revenuecat.com
+HOST-SUFFIX,browser-intake-datadoghq.com
+HOST-SUFFIX,files.oaiusercontent.com
+HOST-SUFFIX,api.statsig.com
+HOST-SUFFIX,macgpt.com
+HOST-SUFFIX,tcr9i.chat.openai.com
+HOST-SUFFIX,api-iam.intercom.io
+HOST-SUFFIX,events.statsigapi.net
+HOST-SUFFIX,tcr9i.chat.openai.com
+HOST-SUFFIX,challenges.cloudflare.com
+HOST-SUFFIX,o33249.ingest.sentry.io
+HOST-SUFFIX,platform.openai.com
+HOST-SUFFIX,cdn.openai.com
+HOST-SUFFIX,auth0.openai.com
+HOST-SUFFIX,auth.openai.com
+HOST-SUFFIX,cdn.auth0.com
+HOST-SUFFIX,openaiapi-site.azureedge.net
+HOST-SUFFIX,images.openai.com
+HOST-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+HOST-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+HOST-SUFFIX,api.openai.com
+HOST-SUFFIX,cdn.oaistatic.com
+HOST-SUFFIX,widget.intercom.io
+HOST-SUFFIX,js.intercomcdn.com
+HOST-SUFFIX,auth.openai.com
+HOST-SUFFIX,chatgpt-async-webps-prod-eastus-9.webpubsub.azure.com
+HOST-SUFFIX,statsigapi.net
+#NVIDIA
+HOST-SUFFIX,build.nvidia.com
+HOST-SUFFIX,integrate.api.nvidia.com
+HOST-SUFFIX,api.ngc.nvidia.com
+HOST-SUFFIX,brand-assets.cne.ngc.nvidia.com
+HOST-SUFFIX,ngc.nvidia.com
+HOST-SUFFIX,chat.com
+HOST-SUFFIX,ios.chat.openai.com
+HOST-SUFFIX,android.chat.openai.com
+HOST-SUFFIX,desktop.chat.openai.com
+HOST-SUFFIX,openai.com
+HOST-SUFFIX,operator.chatgpt.com
+HOST-SUFFIX,chatgpt.com
+HOST-SUFFIX,oaistatic.com
+HOST-SUFFIX,files.oaiusercontent.com
+HOST-SUFFIX,oaiusercontent.com
+HOST-SUFFIX,identrust.com
+HOST-SUFFIX,cdn.auth0.com
+HOST-SUFFIX,challenges.cloudflare.com
+HOST-SUFFIX,chat.openai.com.cdn.cloudflare.net
+HOST-SUFFIX,openaiapi-site.azureedge.net
+HOST-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+HOST-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+HOST-SUFFIX,production-openaicom-storage.azureedge.net
+# HOST-SUFFIX,nexus-websocket-a.intercom.io
+HOST-SUFFIX,openai-api.arkoselabs.com
+HOST-SUFFIX,chatgpt.livekit.cloud
+# ChatGPT voice mode TCP 443 request
+HOST-SUFFIX,turn.livekit.cloud
+# ChatGPT voice mode UDP 3478 request 
+HOST-SUFFIX,host.livekit.cloud
+HOST-SUFFIX,api.statsig.com
+HOST-SUFFIX,browser-intake-datadoghq.com
+HOST-SUFFIX,prodregistryv2.org
+HOST-SUFFIX,featureassets.org
+# Sora
+HOST-SUFFIX,www.sora.com
+HOST-SUFFIX,sora-cdn.oaistatic.com
+HOST-SUFFIX,sora.com
+HOST-SUFFIX,videos.openai.com
+# Claude Meta and poe
+HOST-SUFFIX,cdn.usefathom.com
+HOST-SUFFIX,api.anthropic.com
+HOST-SUFFIX,claude.ai
+HOST-SUFFIX,anthropic.com
+HOST-SUFFIX,www.claudeusercontent.com
+HOST-SUFFIX,claudeusercontent.com
+HOST-SUFFIX,api3.siftscience.com
+# aws bedrock
+HOST-SUFFIX,bedrock.us-east-1.amazonaws.com
+HOST-SUFFIX,bedrock.us-east-2.amazonaws.com
+HOST-SUFFIX,bedrock.us-west-2.amazonaws.com
+HOST-SUFFIX,bedrock-runtime.us-east-1.amazonaws.com
+HOST-SUFFIX,bedrock-runtime.us-east-2.amazonaws.com
+HOST-SUFFIX,bedrock-runtime.us-west-2.amazonaws.com
+HOST-SUFFIX,bedrock-agent.us-east-1.amazonaws.com
+HOST-SUFFIX,bedrock-agent.us-west-2.amazonaws.com
+HOST-SUFFIX,bedrock-agent-runtime.us-east-1.amazonaws.com
+HOST-SUFFIX,bedrock-agent-runtime.us-west-2.amazonaws.com
+# Perplexity
+HOST-SUFFIX,fscdn.eppo.cloud
+HOST-SUFFIX,www.perplexity.ai
+HOST-SUFFIX,discover-audio.perplexity.ai
+HOST-SUFFIX,perplexity.ai
+HOST-SUFFIX,pplx-res.cloudinary.com
+HOST-SUFFIX,pplx-next-static-public.perplexity.ai,REJECT
+HOST-SUFFIX,poe.com
+HOST-SUFFIX,meta.ai
+# Mistral
+HOST-SUFFIX,chat.mistral.ai
+HOST-SUFFIX,auth.mistral.ai
+HOST-SUFFIX,console.mistral.ai
+HOST-SUFFIX,mistral.ai
+# Jina
+HOST-SUFFIX,segment.jina.ai
+HOST-SUFFIX,api.jina.ai
+HOST-SUFFIX,r.jina.ai
+HOST-SUFFIX,s.jina.ai
+HOST-SUFFIX,g.jina.ai
+HOST-SUFFIX,jina.ai
+# Cluster
+HOST-SUFFIX,api.groq.com
+HOST-SUFFIX,api.fireworks.ai
+HOST-SUFFIX,fireworks.ai
+HOST-SUFFIX,api.together.xyz
+HOST-SUFFIX,together.ai
+HOST-SUFFIX,api.replicate.com
+HOST-SUFFIX,api.eu.nebius.cloud
+HOST-SUFFIX,nebius.cloud
+HOST-SUFFIX,nebius.com
+HOST-SUFFIX,nebius.ai
+HOST-SUFFIX,api.hyperbolic.xyz
+HOST-SUFFIX,hyperbolic.xyz
+# Other LLMs
+HOST-SUFFIX,x.ai
+HOST-SUFFIX,ai.com
+HOST-SUFFIX,ai.gitee.com
+HOST-SUFFIX,kpu.maisa.ai
+HOST-SUFFIX,maisa.ai
+HOST-SUFFIX,dify.ai
+HOST-SUFFIX,arxiv.org
+HOST-SUFFIX,coze.com
+HOST-SUFFIX,ciciai.com
+HOST-SUFFIX,civitai.com
+HOST-SUFFIX,api.fish.audio
+HOST-SUFFIX,fish.audio
+HOST-SUFFIX,api.hf.space
+HOST-SUFFIX,huggingface.co
+HOST-SUFFIX,cdn-avatars.huggingface.co
+HOST-SUFFIX,edge.sdk.awswaf.com
+HOST-SUFFIX,m-ric-agent-data-analyst.hf.space
+HOST-SUFFIX,token.awswaf.com
+# Hugging Face de5282c3ca0c
+HOST-KEYWORD,de5282c3ca0c
