@@ -2,12 +2,12 @@
 #不支持的规则数量:6
 #已排除的规则数量:0
 #不支持的规则:
-HOST-WILDCARD,youtube.*,YouTube PREMIUM
-HOST-WILDCARD,youtube.*.*,YouTube PREMIUM
-HOST-WILDCARD,youtube.com.*,YouTube PREMIUM
-HOST-WILDCARD,youtube.*,YouTube PREMIUM
-HOST-WILDCARD,youtube.*.*,YouTube PREMIUM
-HOST-WILDCARD,youtube.com.*,YouTube PREMIUM
+DOMAIN-WILDCARD,youtube.*,YouTube PREMIUM
+DOMAIN-WILDCARD,youtube.*.*,YouTube PREMIUM
+DOMAIN-WILDCARD,youtube.com.*,YouTube PREMIUM
+DOMAIN-WILDCARD,youtube.*,YouTube PREMIUM
+DOMAIN-WILDCARD,youtube.*.*,YouTube PREMIUM
+DOMAIN-WILDCARD,youtube.com.*,YouTube PREMIUM
 
 #-----------------以下为解析后的规则-----------------#
 
