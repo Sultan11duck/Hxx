@@ -1,0 +1,24 @@
+hostname = api.revenuecat.com, buy.itunes.apple.com, spclient.wg.spotify.com, redirector*.googlevideo.com, *.googlevideo.com, www.youtube.com, s.youtube.com, youtubei.googleapis.com, api-mobile.soundcloud.com, photos.adobe.io, api.deepfaker.app, api.alohaprofile.com
+(https?://[\w-]+\.googlevideo\.com/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) url 302 $1$2$3
+https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad url reject-200
+https?://(www|s)\.youtube\.com/api/stats/ads url reject-200
+https?://(www|s)\.youtube\.com/(pagead|ptracking) url reject-200
+https?://s\.youtube\.com/api/stats/qoe\?adcontext url reject-200
+https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost url 302 reject
+https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat url 302 reject
+https?:\/\/.+\.youtube\.com\/api\/stats\/ads url 302 reject
+https?:\/\/.+\.youtube\.com\/get_midroll url 302 reject
+https?:\/\/.+\.youtube\.com\/pagead\/ url 302 reject
+https?:\/\/.+\.youtube\.com\/ptracking\? url 302 reject
+https?:\/\/m\.youtube\.com\/_get_ads url 302 reject
+https?:\/\/s\.youtube\.com\/api\/stats\/watchtime?adformat url 302 reject
+https?:\/\/youtubei\.googleapis\.com/.+ad_break url 302 reject
+https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|reel\/reel_watch_sequence|get_watch) url script-request-body https://shoptnetz.com/shadowrocket/youtube.request.preview.js
+https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch) url script-response-body https://shoptnetz.com/shadowrocket/youtube.response.preview.js
+https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers) url script-request-header https://shoptnetz.com/shadowrocket/delete_header.js
+https://api\.revenuecat\.com/.+/(receipts$|subscribers/[^/]+$) url script-response-body https://shoptnetz.com/shadowrocket/crack.js
+https:\/\/spclient\.wg\.spotify\.com\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/ url script-request-header https://shoptnetz.com/shadowrocket/spotify-json.js
+https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ url script-response-body https://shoptnetz.com/shadowrocket/spotify-proto.js
+https://api-mobile.soundcloud.com/configuration/ios url script-response-body https://shoptnetz.com/shadowrocket/soundcloud.js
+https:\/\/api\.deepfaker\.app\/api\/v1\/account\/update-profile url script-response-body https://shoptnetz.com/shadowrocket/deepfaker.js
+https://api.alohaprofile.com/v1/profile_info url script-response-body https://shoptnetz.com/shadowrocket/aloha.js
