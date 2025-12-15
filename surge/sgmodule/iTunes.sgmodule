@@ -1,0 +1,22 @@
+#!name=itunes 
+#!desc=itunes 
+
+[Script]
+Itunes = type=http-response, pattern=^https?:\/\/buy\.itunes\.apple\.com\/(verifyReceipt|analytics\/profile|receipt\/validate|verify|purchase)$, script-path=https://raw.githubusercontent.com/Mike-offers/Rewrite/refs/heads/master/QuantumultX/Itunes.js, requires-body=true, max-size=-1, timeout=60
+
+iTunes = type=http-response, pattern=https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, script-path=https://raw.githubusercontent.com/Mikephie/Script/main/qx/iTunes.js, requires-body=true, max-size=-1, timeout=60
+
+iTunes = type=http-response, pattern=https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/iTunes.js, requires-body=true, max-size=-1, timeout=60
+
+buyitunes.vip = type=http-response, pattern=https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, script-path=https://ddgksf2013.top/scripts/buyitunes.vip.js, requires-body=true, max-size=-1, timeout=60
+
+APPheji_iTunes = type=http-response, pattern=https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, script-path=https://raw.githubusercontent.com/Guding88/Script/main/APPheji_iTunes.js, requires-body=true, max-size=-1, timeout=60
+
+iTunes = type=http-response, pattern=https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, script-path=https://raw.githubusercontent.com/BOBOLAOSHIV587/Rules/main/JS/iTunes/JS/JS-1/iTunes.js, requires-body=true, max-size=-1, timeout=60
+
+BuyiTunes = type=http-response, pattern=https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, script-path=https://raw.githubusercontent.com/BOBOLAOSHIV587/Rules/main/JS/iTunes/JS/JS-2/BuyiTunes.js, requires-body=true, max-size=-1, timeout=60
+
+iTunes = type=http-response, pattern=https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, script-path=https://raw.githubusercontent.com/BOBOLAOSHIV587/Rules/main/JS/iTunes/JS/JS-3/iTunes.js, requires-body=true, max-size=-1, timeout=60
+
+[MITM]
+hostname = %APPEND% buy.itunes.apple.com
