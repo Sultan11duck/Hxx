@@ -1,0 +1,1458 @@
+### talkatone\Reddit\Whatsapp\Seagm\Paypal\Binance\github\tiktok\twitter\facebook&instagram\telegram
+#https://ruleset.skk.moe/List/domainset/download.conf
+host-suffix, appetize.io, direct
+host, scripthub.vercel.app, direct
+host-suffix, suo.st, direct
+host-suffix, sub88.dxdyzh.tk, direct
+host-suffix, .workers.dev, direct
+host-suffix, yun-api.subcloud.xyz, direct
+host-suffix, a.y1z.org, direct
+host-suffix, gcs-eu-00002.content-storage-upload.googleapis.com, MEDIA PROXY🔉
+# > SNAPCHAT
+HOST-SUFFIX,accounts.snapchat.com
+HOST-SUFFIX,api-kit.snapchat.com
+HOST-SUFFIX,app.snapchat.com
+HOST-SUFFIX,asia-southeast1-gcp.api.snapchat.com
+HOST-SUFFIX,aws.api.snapchat.com
+HOST-SUFFIX,aws-cf.api.snapchat.com
+HOST-SUFFIX,aws.duplex.snapchat.com
+HOST-SUFFIX,aws-proxy-gcp.api.snapchat.com
+HOST-SUFFIX,bitmoji.api.snapchat.com
+HOST-SUFFIX,chat-gateway-prod.chat.snapchat.com
+HOST-SUFFIX,click.snapchat.com
+HOST-SUFFIX,direct-response-gcp.api.snapchat.com
+HOST-SUFFIX,europe-west1-gcp.api.snapchat.com
+HOST-SUFFIX,gcp.api.snapchat.com
+HOST-SUFFIX,help.snapchat.com
+HOST-SUFFIX,hoops.games.snapchat.com
+HOST-SUFFIX,intg.snapchat.com
+HOST-SUFFIX,jaguar-prod.snapchat.com
+HOST-SUFFIX,lens.games.snapchat.com
+HOST-SUFFIX,lens.snapchat.com
+HOST-SUFFIX,link.snapchat.com
+HOST-SUFFIX,mvm.snapchat.com
+HOST-SUFFIX,premium-stories.snapchat.com
+HOST-SUFFIX,pro-accounts.snapchat.com
+HOST-SUFFIX,pro-stories.snapchat.com
+HOST-SUFFIX,share.snapchat.com
+HOST-SUFFIX,shows.snapchat.com
+HOST-SUFFIX,sks.snapchat.com
+HOST-SUFFIX,snapchat.com
+HOST-SUFFIX,staging-us-east1-aws.api.snapchat.com
+HOST-SUFFIX,static.snapchat.com
+HOST-SUFFIX,story.snapchat.com
+HOST-SUFFIX,support.snapchat.com
+HOST-SUFFIX,topic-sticker-vending.snapchat.com
+HOST-SUFFIX,tr6.snapchat.com
+HOST-SUFFIX,tr.snapchat.com
+HOST-SUFFIX,t.snapchat.com
+HOST-SUFFIX,usc1-gcp-v61.api.snapchat.com
+HOST-SUFFIX,usc1-gcp-v62.api.snapchat.com
+HOST-SUFFIX,us-central1-gcp.api.snapchat.com
+HOST-SUFFIX,use4-gcp-v4.api.snapchat.com
+HOST-SUFFIX,use4-gcp-v6.api.snapchat.com
+HOST-SUFFIX,us-east1-aws-acc.api.snapchat.com
+HOST-SUFFIX,us-east1-aws-acc-test.api.snapchat.com
+HOST-SUFFIX,us-east1-aws.api.snapchat.com
+HOST-SUFFIX,us-east1-aws-cf.api.snapchat.com
+HOST-SUFFIX,us-east1-aws.gateway.snapchat.com
+HOST-SUFFIX,us-east-1-bitmoji.api.snapchat.com
+HOST-SUFFIX,us-east4-gcp.api.snapchat.com
+HOST-SUFFIX,us-east4-gcp-ineg.api.snapchat.com
+HOST-SUFFIX,webattachments.snapchat.com
+HOST-SUFFIX,web.snapchat.com
+HOST-SUFFIX,www.snapchat.com
+HOST-SUFFIX,media-lga3-3.cdn.whatsapp.net
+HOST-SUFFIX,.cdn.whatsapp.net
+HOST-KEYWORD,whatsapp.net
+IP-ASN,714,DIRECT //🇺🇸Apple Inc.
+IP-ASN,13414,DIRECT //🇺🇸Twitter Inc.
+IP-ASN,63179,DIRECT //🇺🇸Twitter Inc.
+IP-ASN,35995,DIRECT //🇺🇸Twitter Inc.
+IP-ASN,63194,DIRECT //🇺🇸Twitter Inc.
+IP-ASN,32934,DIRECT //🇺🇸whatsapp, Inc.
+IP-ASN,32934,DIRECT //🇺🇸whatsapp, Inc.
+IP-ASN,11917,DIRECT //🇺🇸whatsapp, Inc.
+IP-ASN,54115,DIRECT //🇺🇸whatsapp, Inc.
+IP-ASN,63293,DIRECT //🇺🇸whatsapp, Inc.
+IP-ASN,201106,DIRECT //🇺🇸Spartan Host, Inc.
+# Apple
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1passwordusercontent.com
+HOST-SUFFIX,ip6-localhost,DIRECT
+HOST-SUFFIX,ip6-loopback,DIRECT
+HOST-SUFFIX,lan,DIRECT
+HOST-SUFFIX,local,DIRECT
+HOST-SUFFIX,localhost,DIRECT
+ip-cidr, 0.0.0.0/8, direct
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,198.18.0.0/16,DIRECT
+IP-CIDR,224.0.0.0/4,DIRECT
+IP6-CIDR,::1/128,DIRECT
+IP6-CIDR,fc00::/7,DIRECT
+IP6-CIDR,fe80::/10,DIRECT
+IP6-CIDR,fd00::/8,DIRECT
+ip-asn, 174, apple
+ip-asn, 6185, apple
+host-keyword, dns, DNS
+ip-cidr, 192.168.0.1/24, direct
+# > 天翼网关
+ip-cidr, 192.168.1.1/24, direct
+# > 其他分流修正
+host, time.apple.com, direct
+#IP-ASN,13333,Cloudflare
+#🌥️Cloudflare
+#ip-asn, 13335, Cloudflare
+# sub.store 
+HOST-SUFFIX,vercel.app,DIRECT 
+host-suffix,.vercel.app,DIRECT
+host-suffix,sub-store.vercel.app,DIRECT
+HOST-SUFFIX,sub.store,DIRECT
+HOST-SUFFIX,sub-store.vercel.app,DIRECT
+HOST-SUFFIX,vercel.app,DIRECT
+host-suffix,vercel.app,DIRECT
+;host-suffix, script.hub, direct
+ip-asn, 20940, direct
+#host-keyword, ., IP-ASN
+host-suffix,.workers.dev,DIRECT
+host-suffix, -bing.com, MICROSOFT
+host-suffix, .bing.com, MICROSOFT
+host-suffix, ghproxy.cfd, GITHUB
+ip-asn, 174, apple
+host-suffix, .infinitynewtab.com, direct
+geoip, 51167, direct
+host-suffix, appdb.to, direct
+host-suffix, bing.com, GOOGLE
+host-suffix, t.co, direct
+IP-CIDR,0.0.0.0/32,REJECT,no-resolve
+host-suffix, ipawind.com, direct
+host-suffix, dropbox.com, direct
+ip-asn, 19115, direct
+Host-suffix, ldcloud.net, direct
+host-suffix, shazam.com, direct
+host-keyword, translate, direct
+ip-asn, 3320, direct
+#Shenzhen Tencent
+IP-ASN,45090,DIRECT
+IP-ASN,38283,DIRECT 
+# Cogent Communications
+IP-ASN, 174, direct
+# vk russian
+host, cf-st.sc-cdn.net, direct
+#geoip SITE⏬
+#🇨🇳infinity tap
+IP-ASN,24429,DIRECT 
+ip-asn, 134771,DIRECT 
+ip-asn, 37963,DIRECT 
+HOST-SUFFIX,infinitynewtab.com,DIRECT 
+#☁️ CLOUDFLARE 
+host-keyword, sub-store, direct
+host, sub-store.vercel.app, direct
+host-suffix, sub-store.vercel.app, direct
+host-suffix, sub-store.vercel.app, direct
+host, mask-canary.icloud.com, TESTFLIGHT
+host-suffix, internal-3.pubyar.com, direct
+host, edge.microsoft.com, direct
+host, x.siki.ai, direct
+host-suffix, x.siki.ai, direct
+host-suffix, recaptcha.net, direct
+host-keyword, translate,DIRECT
+ip-asn, 64286, direct
+host-suffix, linvo.com, direct
+host-suffix, .content-storage-upload.googleapis.com,DIRECT
+host-suffix, immersivetranslate.com, DIRECT
+host-suffix, api.immersivetranslate.com, DIRECT
+host-suffix, sub-store.vercel.app, DIRECT
+host-suffix, sub., direct
+ip-asn, 21887, direct
+host-keyword, .mail, direct
+ip-asn, 59711, direct
+host-suffix, signapp.cc, direct
+host-keyword, install,apple
+ip-asn, 63949, direct
+ip-asn, 52000, direct
+host-suffix, onesignal.com, direct
+host-suffix, workingcopyapp.com, direct
+host-suffix, aliyuncs.com, direct
+host-suffix, x.siki.ai, DNS
+host-suffix, siki.ai, direct
+host-suffix, sub.store, direct
+host-suffix, sub.store, direct
+ip-asn, 45102, direct
+host-suffix, stremio.com, direct
+host-suffix, coccoc.com, direct
+host-suffix, hcaptcha.com, direct
+host-suffix, hcaptcha.com, direct
+host-suffix, stripe.network, direct
+ip-asn, 25019, DNS
+host-suffix, hcaptcha.com, direct
+host-suffix, mytoolz.net, Cloudflare
+ip-asn, 60476, direct
+host-suffix, appraven.net, direct
+host-suffix, sub.id9.cc, direct
+host-suffix, challenges.cloudflare.com, DIRECT
+host-suffix, infinitynewtab.com, direct
+host-suffix, infinitynewtab.com, direct
+host-suffix, api.infinitynewtab.com, direct
+host-suffix, infinitypro-img.infinitynewtab.com, direct
+host-suffix, dbservices.to, direct
+# 其他域名
+DOMAIN,accounts.brex.com
+DOMAIN,api.privacy.com
+DOMAIN,api.pwnedpasswords.com
+DOMAIN,cache.agilebits.com
+DOMAIN,in.appcenter.ms
+DOMAIN,jmap.fastmail.com
+DOMAIN,platform.brex.com
+DOMAIN-SUFFIX,1infra.net
+DOMAIN-SUFFIX,fastmail.com
+DOMAIN-SUFFIX,globalsign.com
+host-suffix,.sa,DIRECT
+HOST-SUFFIX,tgstat.com,DIRECT
+HOST-SUFFIX,t.co,DIRECT 
+HOST-SUFFIX,aol.com,FACEBOOK
+HOST-SUFFIX,browserleaks.com,FACEBOOK
+HOST-SUFFIX,canva.com,FACEBOOK
+HOST-SUFFIX,dyson.com,FACEBOOK
+HOST-SUFFIX,gravatar.com,FACEBOOK
+HOST-SUFFIX,cdninstagram.com,FACEBOOK
+HOST-SUFFIX,cdnfbsbx.com,FACEBOOK
+HOST-SUFFIX,igcdn.com,FACEBOOK
+HOST-SUFFIX,instagram.com,FACEBOOK
+HOST-SUFFIX,ig.me,FACEBOOK
+HOST-SUFFIX,facebook.com,FACEBOOK
+HOST-SUFFIX,fbcdn.net,FACEBOOK
+HOST-SUFFIX,connect.facebook.net,FACEBOOK
+HOST-SUFFIX,graph.facebook.com,FACEBOOK
+HOST-SUFFIX,gateway.facebook.com,FACEBOOK
+HOST-SUFFIX,l.facebook.com,FACEBOOK
+HOST-SUFFIX,fb.com,FACEBOOK
+HOST-SUFFIX,fb.me,FACEBOOK
+HOST-SUFFIX,fbsbx.com,FACEBOOK
+HOST-SUFFIX,f.vision,FACEBOOK
+HOST-SUFFIX,fbcdn.net,FACEBOOK
+HOST-SUFFIX,cdnfacebook.com,FACEBOOK
+HOST-SUFFIX,fburl.com,FACEBOOK
+HOST-SUFFIX,kahoot.com,FACEBOOK
+HOST-SUFFIX,iherb.com,FACEBOOK
+HOST-SUFFIX,linkedin.com,FACEBOOK
+HOST-SUFFIX,l.google.com,FACEBOOK
+HOST-SUFFIX,lnkd.in,FACEBOOK
+HOST-SUFFIX,medium.com,FACEBOOK
+HOST-SUFFIX,meta.com,FACEBOOK
+HOST-SUFFIX,netflix.com,FACEBOOK
+HOST-SUFFIX,netpeaksoftware.com,FACEBOOK
+HOST-SUFFIX,openwrt.org,FACEBOOK
+HOST-SUFFIX,proton.me,FACEBOOK
+HOST-SUFFIX,quora.com,FACEBOOK
+HOST-SUFFIX,setapp.com,FACEBOOK
+HOST-SUFFIX,slideshare.net,FACEBOOK
+HOST-SUFFIX,soundcloud.com,FACEBOOK
+HOST-SUFFIX,t.co,FACEBOOK
+HOST-SUFFIX,tumblr.com,FACEBOOK
+HOST-SUFFIX,twimg.com,FACEBOOK
+HOST-SUFFIX,twitter.co,FACEBOOK
+HOST-SUFFIX,twitter.com,FACEBOOK
+HOST-SUFFIX,twitthat.com,FACEBOOK
+HOST-SUFFIX,twtkr.com,FACEBOOK
+HOST-SUFFIX,twttr.com,FACEBOOK
+HOST-SUFFIX,youtu.be,FACEBOOK
+HOST-SUFFIX,youtube.com,FACEBOOK
+HOST-SUFFIX,vimeo.com,FACEBOOK
+HOST-SUFFIX,vimeocdn.com,FACEBOOK
+HOST-SUFFIX,x.com,FACEBOOK
+HOST-SUFFIX,dns.google,GOOGLE
+HOST-SUFFIX,clients3.google.com,GOOGLE
+HOST-SUFFIX,notifications-pa.googleapis.com,GOOGLE
+HOST,smtp.gmail.com,DIRECT
+HOST,smtp-mail.outlook.com,DIRECT
+HOST,smtp.mail.yahoo.com,DIRECT
+HOST,smtp.zoho.com,DIRECT
+HOST,smtp.aol.com,DIRECT
+HOST,smtp.protonmail.com,DIRECT
+HOST,smtp.mail.com,DIRECT
+HOST,smtp.yandex.com,DIRECT
+HOST,smtp.fastmail.com,DIRECT
+HOST,smtpout.secureserver.net,DIRECT
+HOST,smtp.mail.me.com,DIRECT
+HOST,mail.gandi.net,DIRECT
+HOST,smtp.gmx.com,DIRECT
+HOST,smtp.office365.com,DIRECT
+HOST,smtp.mail.lycos.com,DIRECT
+HOST,smtp.dreamhost.com,DIRECT
+HOST,smtp.ionos.com,DIRECT
+HOST,smtp.emailsrvr.com,DIRECT
+HOST,smtp.hushmail.com,DIRECT
+HOST,imap.gmail.com,DIRECT
+HOST,imap-mail.outlook.com,DIRECT
+HOST,imap.mail.yahoo.com,DIRECT
+HOST,imap.zoho.com,DIRECT
+HOST,imap.aol.com,DIRECT
+HOST,imap.protonmail.com,DIRECT
+HOST,imap.mail.com,DIRECT
+HOST,imap.yandex.com,DIRECT
+HOST,imap.fastmail.com,DIRECT
+HOST,imap.secureserver.net,DIRECT
+HOST,imap.mail.me.com,DIRECT
+HOST,imap.gmx.com,DIRECT
+HOST,outlook.office365.com,DIRECT
+HOST,imap.mail.lycos.com,DIRECT
+HOST,imap.dreamhost.com,DIRECT
+HOST,imap.ionos.com,DIRECT
+HOST,imap.emailsrvr.com,DIRECT
+HOST,imap.hushmail.com,DIRECT
+USER-AGENT,com.apple.mobileme.fmip1
+USER-AGENT,WeatherFoundation
+USER-AGENT,%E5%9C%B0%E5%9B%BE
+USER-AGENT,%E8%AE%BE%E7%BD%AE
+USER-AGENT,AppStore
+USER-AGENT,com.apple.appstored
+USER-AGENT,com.apple.geod
+USER-AGENT,com.apple.Maps
+USER-AGENT,FindMyFriends
+USER-AGENT,FindMyiPhone
+USER-AGENT,FMDClient
+USER-AGENT,FMFD
+USER-AGENT,fmflocatord
+USER-AGENT,geod
+USER-AGENT,locationd
+USER-AGENT,Maps
+USER-AGENT,TestFlight
+IP-ASN,56655,DNS
+ip-asn,714 // 🇺🇸Apple Inc.
+ip-asn,2914 // 🇺🇸NTT America, Inc.#filebox-douban.vercel.app
+ip-asn,13414 // 🇺🇸Twitter Inc.
+ip-asn,54113 // 🇺🇸Fastly, Inc.
+USER-AGENT,CodeHub
+USER-AGENT,Dropbox
+USER-AGENT,Facebook
+#USER-AGENT,GitHubMac
+USER-AGENT,Instagram
+USER-AGENT,ph.telegra.Telegraph
+USER-AGENT,Twitter
+# > Whatsapp
+HOST-SUFFIX,graph.facebook.com
+HOST-SUFFIX,bintray.com
+HOST-SUFFIX,wa.me
+HOST-SUFFIX,whatsapp-plus.info
+HOST-SUFFIX,whatsapp-plus.me
+HOST-SUFFIX,whatsapp-plus.net
+HOST-SUFFIX,whatsapp.biz
+HOST-SUFFIX,whatsapp.cc
+HOST-SUFFIX,whatsapp.com
+HOST-SUFFIX,whatsapp.info
+HOST-SUFFIX,whatsapp.net
+HOST-SUFFIX,whatsapp.org
+HOST-SUFFIX,whatsapp.tv
+HOST-SUFFIX,whatsappbrand.com
+HOST-KEYWORD,whatsapp
+HOST-SUFFIX,whatsapp.com
+HOST-SUFFIX,whatsapp.net
+HOST,www.whatsapp.com
+HOST,static.whatsapp.net
+HOST,web.whatsapp.com
+HOST,www-cdn.whatsapp.net
+HOST,faq.whatsapp.com
+HOST,blog.whatsapp.com
+HOST,scontent.whatsapp.net
+HOST,media-msp1-1.cdn.whatsapp.net
+HOST,g.whatsapp.net
+# > whaysapp
+HOST,graph.facebook.com
+HOST-SUFFIX,bintray.com
+HOST-SUFFIX,whatsapp.biz
+HOST-SUFFIX,whatsapp.com
+HOST-SUFFIX,whatsapp.net
+HOST-KEYWORD,whatsapp
+IP-CIDR,158.85.224.160/27
+IP-CIDR,158.85.46.128/27
+IP-CIDR,158.85.5.192/27
+IP-CIDR,173.192.222.160/27
+IP-CIDR,173.192.231.32/27
+IP-CIDR,18.194.0.0/15
+IP-CIDR,184.173.128.0/17
+IP-CIDR,208.43.122.128/27
+IP-CIDR,34.224.0.0/12
+IP-CIDR,50.22.198.204/30
+IP-CIDR,54.242.0.0/15
+# Whatsapp 与 Proxy 共 14 条规则重复
+HOST-KEYWORD,whatsapp
+HOST-SUFFIX,bintray.com
+HOST-SUFFIX,whatsapp.com
+HOST-SUFFIX,whatsapp.net
+IP-CIDR,158.85.224.160/27
+IP-CIDR,158.85.46.128/27
+IP-CIDR,158.85.5.192/27
+IP-CIDR,173.192.222.160/27
+IP-CIDR,173.192.231.32/27
+IP-CIDR,18.194.0.0/15
+IP-CIDR,184.173.128.0/17
+IP-CIDR,34.224.0.0/12
+IP-CIDR,50.22.198.204/30
+IP-CIDR,54.242.0.0/15
+# Whatsapp 与 Global 共 4 条规则重复
+HOST-KEYWORD,whatsapp
+HOST-SUFFIX,bintray.com
+HOST-SUFFIX,whatsapp.com
+HOST-SUFFIX,whatsapp.net
+# Whatsapp 与 BlackList 共 3 条规则重复
+HOST-KEYWORD,whatsapp
+HOST-SUFFIX,bintray.com
+IP-CIDR,18.194.0.0/15
+# Whatsapp 与 Facebook 共 2 条规则重复
+HOST-SUFFIX,whatsapp.com
+HOST-SUFFIX,whatsapp.net
+# Whatsapp 与 Amazon 共 1 条规则重复
+IP-CIDR,18.194.0.0/15
+HOST-SUFFIX,twitter.com
+HOST-SUFFIX,abs.twimg.com
+HOST-SUFFIX,analytics.twitter.com
+HOST-SUFFIX,syndication.twitter.com
+HOST-SUFFIX,pbs.twimg.com
+HOST-SUFFIX,api.twitter.com
+HOST-SUFFIX,video.twimg.com
+HOST-SUFFIX,ton.twimg.com
+# > TikTok by 可莉
+host-keyword, .tiktokv.com, proxy
+HOST-SUFFIX, bytedapm.com, proxy
+HOST-SUFFIX, bytefcdn-oversea.com, proxy
+HOST-SUFFIX, bytefcdn-ttpeu.com, proxy
+HOST-SUFFIX, bytegecko-i18n.com, proxy
+HOST-SUFFIX, bytegecko.com, proxy
+HOST-SUFFIX, byteglb.com, proxy
+HOST-SUFFIX, byteimg.com, proxy
+HOST-SUFFIX, byteigtm.com, proxy
+HOST-SUFFIX, byteoversea.com, proxy
+HOST-SUFFIX, byteoversea.net, proxy
+HOST-SUFFIX, bytetcdn.com, proxy
+HOST-SUFFIX, byteicdn.com, proxy
+HOST-SUFFIX, capcut.com, proxy
+HOST-SUFFIX, ibytedtos.com, proxy
+HOST-SUFFIX, ibyteimg.com, proxy
+HOST-SUFFIX, ipstatp.com, proxy
+HOST-SUFFIX, isnssdk.com, proxy
+HOST-SUFFIX, muscdn.com, proxy
+HOST-SUFFIX, musemuse.cn, proxy
+HOST-SUFFIX, musical.ly, proxy
+HOST-SUFFIX, pstatp.com, proxy
+HOST-SUFFIX, sgpstatp.com, proxy
+HOST-SUFFIX, sgsnssdk.com, proxy
+HOST-SUFFIX, snssdk.com, proxy
+HOST-SUFFIX, tik-tokapi.com, proxy
+HOST-SUFFIX, tiktok.com, proxy
+HOST-SUFFIX, tiktok.in, proxy
+HOST-SUFFIX, tiktokcdn-eu.com, proxy
+HOST-SUFFIX, tiktokcdn-eu.net, proxy
+HOST-SUFFIX, tiktokcdn-in.com, proxy
+HOST-SUFFIX, tiktokcdn-us.com, proxy
+HOST-SUFFIX, tiktokcdn.com, proxy
+HOST-SUFFIX, tiktokd.net, proxy
+HOST-SUFFIX, tiktokd.org, proxy
+HOST-SUFFIX, tiktokglobalshop.com, proxy
+HOST-SUFFIX, tiktokglobalshopv.com, proxy
+HOST-SUFFIX, tiktokmusic.app, proxy
+HOST-SUFFIX, tiktokshop.com, proxy
+HOST-SUFFIX, tiktokstaticb.com, proxy
+HOST-SUFFIX, tiktokv.com, proxy
+HOST-SUFFIX, tiktokv.eu, proxy
+HOST-SUFFIX, tiktokv.us, proxy
+HOST-SUFFIX, tiktokw.us, proxy
+HOST-SUFFIX, tlivecdn.com, proxy
+HOST-SUFFIX, ttapis.com, proxy
+HOST-SUFFIX, ttdns2.com, proxy
+HOST-SUFFIX, ttlivecdn.com, proxy
+HOST-SUFFIX, ttoversea.net, proxy
+HOST-SUFFIX, ttoverseaus.net, proxy
+HOST-SUFFIX, ttwstatic.com, proxy
+HOST-KEYWORD, musical.ly, proxy
+HOST-KEYWORD, tiktok, proxy
+HOST-KEYWORD, tiktokv, proxy
+HOST-KEYWORD, tiktokcdn, proxy
+HOST-KEYWORD, ttlivecdn, proxy
+HOST-KEYWORD, -default.akamaized.net, proxy
+HOST-KEYWORD, -effectcdn.byteeffecttos-g.com, proxy
+HOST-KEYWORD, -tiktokcdn-com.akamaized.net, proxy
+HOST-KEYWORD, -pkgcdn.pitaya-clientai.com, proxy
+USER-AGENT, TikTok, proxy
+# > TikTok
+USER-AGENT,TikTok,proxy
+HOST-SUFFIX,muscdn.com,proxy
+HOST-SUFFIX,musical.ly,proxy
+HOST-SUFFIX,tiktokv.com,proxy
+HOST-SUFFIX,tiktokcdn.com,proxy
+HOST-KEYWORD,-tiktokcdn-com,proxy
+HOST-SUFFIX,tiktok.com,proxy
+HOST-SUFFIX,tik-tokapi.com,proxy
+HOST-SUFFIX,api.tiktokv.com,proxy
+# > tiktok
+HOST-SUFFIX,lf16-effectcdn.byteeffecttos-g.com
+HOST-SUFFIX,lf16-pkgcdn.pitaya-clientai.com
+HOST-SUFFIX,p16-tiktokcdn-com.akamaized.net
+HOST-SUFFIX,bytedapm.com
+HOST-SUFFIX,bytegecko-i18n.com
+HOST-SUFFIX,bytegecko.com
+HOST-SUFFIX,byteoversea.com
+HOST-SUFFIX,capcut.com
+HOST-SUFFIX,ibytedtos.com
+HOST-SUFFIX,ibyteimg.com
+HOST-SUFFIX,ipstatp.com
+HOST-SUFFIX,isnssdk.com
+HOST-SUFFIX,muscdn.com
+HOST-SUFFIX,musical.ly
+HOST-SUFFIX,sgpstatp.com
+HOST-SUFFIX,snssdk.com
+HOST-SUFFIX,tik-tokapi.com
+HOST-SUFFIX,tiktok.com
+HOST-SUFFIX,tiktokcdn-us.com
+HOST-SUFFIX,tiktokcdn.com
+HOST-SUFFIX,tiktokd.net
+HOST-SUFFIX,tiktokd.org
+HOST-SUFFIX,tiktokv.com
+HOST-KEYWORD,musical.ly
+HOST-KEYWORD,tiktok
+USER-AGENT,TikTok
+PROCESS-NAME,com.zhiliaoapp.musically
+# > twitter
+HOST-SUFFIX,cms-twdigitalassets.com
+HOST-SUFFIX,periscope.tv
+HOST-SUFFIX,pscp.tv
+HOST-SUFFIX,t.co
+HOST-SUFFIX,tellapart.com
+HOST-SUFFIX,tweetdeck.com
+HOST-SUFFIX,twimg.co
+HOST-SUFFIX,twimg.com
+HOST-SUFFIX,twimg.org
+HOST-SUFFIX,twitpic.com
+HOST-SUFFIX,twitter.biz
+HOST-SUFFIX,twitter.com
+HOST-SUFFIX,twitter.jp
+HOST-SUFFIX,twittercommunity.com
+HOST-SUFFIX,twitterflightschool.com
+HOST-SUFFIX,twitterinc.com
+HOST-SUFFIX,twitteroauth.com
+HOST-SUFFIX,twitterstat.us
+HOST-SUFFIX,twtrdns.net
+HOST-SUFFIX,twttr.com
+HOST-SUFFIX,twttr.net
+HOST-SUFFIX,twvid.com
+HOST-SUFFIX,vine.co
+HOST-SUFFIX,x.com
+HOST-KEYWORD,twitter
+IP-CIDR,192.133.76.0/22
+IP-CIDR,199.16.156.0/22
+IP-CIDR,199.59.148.0/22
+IP-CIDR,199.96.56.0/21
+IP-CIDR,202.160.128.0/22
+IP-CIDR,209.237.192.0/19
+IP-CIDR,69.195.160.0/19
+# > telegram
+HOST-SUFFIX,api.swiftgram.app
+HOST-SUFFIX,comments.app
+HOST-SUFFIX,contest.com
+HOST-SUFFIX,graph.org
+HOST-SUFFIX,legra.ph
+HOST-SUFFIX,mbrx.app
+HOST-SUFFIX,quiz.directory
+HOST-SUFFIX,stel.com
+HOST-SUFFIX,t.me
+HOST-SUFFIX,tdesktop.com
+HOST-SUFFIX,telega.one
+HOST-SUFFIX,telegra.ph
+HOST-KEYWORD,telegram
+HOST-SUFFIX,telesco.pe
+HOST-SUFFIX,tg.dev
+HOST-SUFFIX,tx.me
+HOST-SUFFIX,usercontent.dev
+HOST-KEYWORD,nicegram
+HOST-SUFFIX,api.imem.app
+HOST-SUFFIX,api.swiftgram.app
+HOST-SUFFIX,imem.app
+HOST-SUFFIX,cdn-telegram.org
+HOST-SUFFIX,comments.app
+HOST-SUFFIX,contest.com
+HOST-SUFFIX,graph.org
+HOST-SUFFIX,legra.ph
+HOST-SUFFIX,mbrx.app
+HOST-SUFFIX,quiz.directory
+HOST-SUFFIX,stel.com
+HOST-SUFFIX,t.me
+HOST-SUFFIX,tdesktop.com
+HOST-SUFFIX,telega.one
+HOST-SUFFIX,telegra.ph
+HOST-SUFFIX,telegram-cdn.org
+HOST-SUFFIX,telegram.dog
+HOST-SUFFIX,telegram.me
+HOST-SUFFIX,telegram.org
+HOST-SUFFIX,telegram.space
+HOST-SUFFIX,telegramdownload.com
+HOST-SUFFIX,telesco.pe
+HOST-SUFFIX,tg.dev
+HOST-SUFFIX,tx.me
+HOST-SUFFIX,usercontent.dev
+HOST-KEYWORD,nicegram
+IP-CIDR,5.28.195.163/32
+IP-CIDR,5.28.195.205/32
+IP-CIDR,5.28.192.0/32
+IP-CIDR,67.198.55.0/24
+IP-CIDR,91.105.192.0/21
+IP-CIDR,91.108.4.0/22
+IP-CIDR,91.108.8.0/21
+IP-CIDR,91.108.12.0/21
+IP-CIDR,91.108.16.0/21
+IP-CIDR,91.108.56.0/22
+IP-CIDR,95.161.64.0/18
+IP-CIDR,109.239.140.0/24
+IP-CIDR,149.154.160.0/20
+IP-CIRD,185.76.151.0/22
+IP-CIDR,185.76.151.0/24
+IP-CIDR,205.172.60.0/22
+IP-CIDR6,2a0a:f280::/32
+IP-CIDR6,2001:67c:4e8::/48
+IP-CIDR6,2001:67c:4e8:f002::a/128
+IP-CIDR6,2001:67c:4e8:f002::e/128
+IP-CIDR6,2001:67c:4e8:f004::a/128
+IP-CIDR6,2001:67c:4e8:fa60::/64
+IP-CIDR6,2001:b28:f23c::/47
+IP-CIDR6,2001:b28:f23d::/48
+IP-CIDR6,2001:b28:f23d:f001::a/128
+IP-CIDR6,2001:b28:f23d:f001::e/128
+IP-CIDR6,2001:b28:f23d:f003::a/128
+IP-CIDR6,2001:b28:f23d:f003::e/128
+IP-CIDR6,2001:b28:f23f::/48
+IP-CIDR6,2001:b28:f23f:f005::a/128
+IP-CIDR6,2001:b28:f242::/48
+IP-ASN,44907
+IP-ASN,59930
+IP-ASN,62014
+IP-ASN,62041
+IP-ASN,211157
+# DC5
+IP-CIDR,91.108.16.0/22
+IP-CIDR,91.108.56.0/23
+IP-CIDR,149.154.168.0/22
+# DC4
+IP-CIDR,91.108.4.0/22
+IP-CIDR,91.108.8.0/22
+IP-CIDR,91.108.56.0/22
+IP-CIDR,95.161.64.0/20
+IP-CIDR,149.154.160.0/22
+IP-CIDR,149.154.162.0/23
+IP-CIDR,149.154.164.0/22
+IP-CIDR,149.154.166.0/23
+# DC1
+IP-CIDR,91.108.12.0/22
+IP-CIDR,149.154.172.0/22
+# DC2
+IP-CIDR,91.108.20.0/22
+# DC3
+IP-CIDR,91.105.192.0/23
+IP-CIDR,185.76.151.0/24
+# DC5-V6
+IP-CIDR6,2001:b28:f23f::/48
+# DC4-V6
+IP-CIDR6,2001:67c:4e8::/48
+# DC1-V6
+IP-CIDR6,2001:b28:f23d::/48
+# DC2-V6
+IP-CIDR6,2001:b28:f23c::/48
+# DC3-V6
+IP-CIDR6,2a0a:f280:203::/48
+# DC5-ASN
+IP-ASN,62014
+# DC4-ASN
+IP-ASN,62041
+# DC1-ASN
+IP-ASN,59930
+# DC2-ASN
+IP-ASN,44907
+# DC3-ASN
+IP-ASN,211157
+IP-CIDR,5.28.195.80/32
+HOST-SUFFIX,sc-cdn.net
+HOST-SUFFIX,snap-dev.net
+HOST-SUFFIX,snap.com
+HOST-SUFFIX,snapkit.co
+# >> 1Password
+HOST-SUFFIX,1password.com
+HOST-SUFFIX,1passwordservices.com
+HOST-SUFFIX,1password.eu
+HOST-SUFFIX,1password.ca
+# > Twitter
+IP-CIDR,69.195.160.0/19
+IP-CIDR,104.244.42.0/21
+IP-CIDR,192.133.76.0/22
+IP-CIDR,199.16.156.0/22
+IP-CIDR,199.59.148.0/22
+IP-CIDR,199.96.56.0/21
+IP-CIDR,202.160.128.0/22
+IP-CIDR,209.237.192.0/19
+IP-ASN,8945
+IP-ASN,63179
+IP-ASN,54888
+HOST-KEYWORD,twitter
+HOST-SUFFIX,periscope.tv
+HOST-SUFFIX,pscp.tv
+HOST-SUFFIX,t.co
+HOST-SUFFIX,twimg.co
+HOST-SUFFIX,twimg.com
+HOST-SUFFIX,twimg.org
+HOST-SUFFIX,twitpic.com
+HOST-SUFFIX,twitter.com
+HOST-SUFFIX,twitter.jp
+HOST-SUFFIX,vine.co
+# > OneDrive
+USER-AGENT,OneDrive
+USER-AGENT,OneDriveiOSApp
+PROCESS-NAME,onedrive
+PROCESS-NAME,onedriveupdater
+HOST-KEYWORD,1drv
+HOST-KEYWORD,onedrive
+HOST-KEYWORD,skydrive
+HOST-SUFFIX,1drv.com
+HOST-SUFFIX,livefilestore.com
+HOST-SUFFIX,oneclient.sfx.ms
+HOST-SUFFIX,onedrive.com
+HOST-SUFFIX,onedrive.live.com
+HOST-SUFFIX,photos.live.com
+HOST-SUFFIX,sharepoint.com
+HOST-SUFFIX,sharepointonline.com
+HOST-SUFFIX,skydrive.wns.windows.com
+HOST-SUFFIX,spoprod-a.akamaihd.net
+HOST-SUFFIX,storage.live.com
+HOST-SUFFIX,storage.msn.com
+HOST-SUFFIX,in.appcenter.ms
+# > Google Drive
+USER-AGENT,Google.Drive
+USER-AGENT,com.google.Drive
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98
+HOST-SUFFIX,docs.google.com
+HOST-SUFFIX,drive.google.com
+HOST-SUFFIX,googledrive.com
+HOST-SUFFIX,googleusercontent.com
+#规则数量:3450
+host-suffix, .twitter.com, DIRECT
+host-suffix, toktok.com, DIRECT
+host-suffix, .whatsapp.net, DIRECT
+host-suffix, matrix.org, DIRECT
+host-suffix, vercel.com, DIRECT
+host-suffix, vercel.sh, DIRECT
+host-suffix, stripe.com, DIRECT
+host-suffix, stripe.network, DIRECT
+HOST-SUFFIX, revenuecat.com, DIRECT
+HOST-SUFFIX, api.rc-backup.com, DIRECT
+host-suffix, .workers.dev, DIRECT
+host-suffix, workers.dev, DIRECT
+HOST-KEYWORD, workers.dev, DIRECT
+# TWITTER
+host-suffix, api.twitter.com, direct
+host-suffix, dev.twitter.com, direct
+host-suffix, developer.twitter.com, direct
+host-suffix, pic.twitter.com, direct
+host-suffix, platform.twitter.com, direct
+host-suffix, search.twitter.com, DIRECT
+host-suffix, t.co, direct
+host-suffix, -twimg.com, DIRECT
+host-suffix, -twimg0-a.akamaihd.net, DIRECT
+host-suffix, -twitter.com, DIRECT
+host-suffix, twitter.com, DIRECT
+host-suffix, -upload.twitter.com, DIRECT
+host-suffix, -twitter.com, DIRECT
+HOST-SUFFIX,snap.com
+HOST-SUFFIX,feelinsonice-mvm.l.google.com
+HOST-SUFFIX,feelinsonice-hrd.appspot.com
+# Snapkit
+HOST-SUFFIX,api.snapkit.com
+# Other
+HOST-SUFFIX,sc-cdn.net
+HOST-SUFFIX,gcs.sc-cdn.net
+HOST-SUFFIX,st.sc-jpl.com
+HOST-SUFFIX,gtq.sct.sc-prod.net
+HOST-SUFFIX,gtq6.sct.sc-prod.net
+HOST-SUFFIX,am-prod.sc-jpl.com
+HOST-SUFFIX,s.sc-cdn.net
+HOST-SUFFIX,cf-st.sc-cdn.net
+HOST-SUFFIX,bolt-gcdn.sc-cdn.net
+HOST-SUFFIX,images.bitmoji.com
+HOST-SUFFIX,us-east1-aws.api.sc-gw.com
+HOST-SUFFIX,snap-storage-cdn.l.google.com
+HOST-SUFFIX,snap.events.mapbox.com
+HOST-SUFFIX,ms.sc-jpl.com
+HOST-SUFFIX,snap.api.mapbox.com
+HOST-SUFFIX,st-lb.sc-jpl.com
+HOST-SUFFIX,loc.sc-jpl.com
+HOST-SUFFIX,cognac-prod.appspot.com
+HOST-SUFFIX,scm.sc-jpl.com
+HOST-SUFFIX,us-central1-gcp.api.sc-gw.com
+HOST-SUFFIX,map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com
+HOST-SUFFIX,feelinsonice.appspot.com
+HOST-SUFFIX,feelinsonice-hrd.appspot.com
+HOST-SUFFIX,feelinsonice.com
+HOST-SUFFIX,feelinsonice.appspot.com
+HOST-SUFFIX,appspot.l.google.com
+HOST-SUFFIX,data.flurry.com
+HOST-SUFFIX,cf-st.sc-cdn.net
+HOST-SUFFIX,gtq.sct.sc-prod.ne
+HOST-SUFFIX,tib.snssdk.com
+HOST-SUFFIX,loca.sc-jpl.com
+HOST-SUFFIX,d3cwhzzyyewihk.cloudfront.net
+HOST-SUFFIX,internal-api.snapkit.com
+HOST-SUFFIX,eu-west1-aws.duplex.sc-gw.com
+host-suffix, sc-cdn.net, direct
+host-suffix, snap-dev.net, direct
+host-suffix, snap.com, direct
+host-suffix, direct.com, direct
+host-suffix, snapkit.co, direct
+ip-asn, 31898, direct
+host-suffix, production-openaicom-storage.azureedge.net, direct
+host-suffix, o33249.ingest.sentry.io, direct
+host-suffix, openaicom.imgix.net, direct
+host-suffix, browser-intake-datadoghq.com, direct
+host-suffix, host.livekit.cloud, direct
+host-suffix, turn.livekit.cloud, direct
+host-suffix, ai.com, direct
+host-suffix, oaistatic.com, direct
+host-suffix, oaiusercontent.com, direct
+host-suffix, openai.com, direct
+host-suffix, sora.com, direct
+host-suffix, openai.com.cdn.cloudflare.net, direct
+host-suffix, openaiapi-site.azureedge.net, direct
+host-suffix, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, direct
+host-suffix, cms-twdigitalassets.com, direct
+host-suffix, periscope.tv, direct
+host-suffix, pscp.tv, direct
+host-suffix, t.co, direct
+host-suffix, tellapart.com, direct
+host-suffix, tweetdeck.com, direct
+host-suffix, twimg.co, direct
+host-suffix, twimg.com, direct
+host-suffix, twimg.org, direct
+host-suffix, twitpic.com, direct
+host-suffix, twitter.biz, direct
+host-suffix, twitter.com, direct
+host-suffix, twitter.jp, direct
+host-suffix, twittercommunity.com, direct
+host-suffix, twitterflightschool.com, direct
+host-suffix, twitterinc.com, direct
+host-suffix, twitteroauth.com, direct
+host-suffix, twitterstat.us, direct
+host-suffix, twtrdns.net, direct
+host-suffix, twttr.com, direct
+host-suffix, twttr.net, direct
+host-suffix, twvid.com, direct
+host-suffix, vine.co, direct
+host-suffix, x.com, direct
+host-suffix, js.stripe.com, direct
+host-suffix, m.stripe.com, direct
+host-suffix, r.stripe.com, direct
+host-suffix, api.stripe.com, direct
+host-suffix, m.stripe.network, direct
+host-suffix, b.stripecdn.com, direct
+host-suffix, merchant-ui-api.stripe.com, direct
+host-suffix, stripe-camo.global.ssl.fastly.net, direct
+host-suffix, stripe.com, direct
+host-suffix, hcaptcha.com, direct
+host-suffix, api2.hcaptcha.com, direct
+host-suffix, hcaptcha.com, direct
+host-suffix, api.revenuecat.com, direct
+host, p16-tiktokcdn-com.akamaized.net, proxy
+host-suffix, amemv.com, proxy
+host-suffix, byteoversea.com, proxy
+host-suffix, ibytedtos.com, proxy
+host-suffix, ibyteimg.com, proxy
+host-suffix, ipstatp.com, proxy
+host-suffix, muscdn.com, proxy
+host-suffix, musical.ly, proxy
+host-suffix, sgpstatp.com, proxy
+host-suffix, snssdk.com, proxy
+host-suffix, tik-tokapi.com, proxy
+host-suffix, tiktok.com, proxy
+host-suffix, tiktokcdn.com, proxy
+host-suffix, tiktokv.com, proxy
+host-keyword, -tiktokcdn-com, proxy
+host-keyword, musical.ly, proxy
+host-keyword, tiktok, proxy
+host-keyword, tiktokv, proxy
+user-agent, TikTok, proxy
+host-suffix, appraven.net, proxy
+host-suffix, audiomack.com, proxy
+host-suffix, konachan.com, proxy
+host-suffix, mastodon.social, proxy
+host-suffix, strava.com, proxy
+host, zhs.tw, proxy
+host-suffix, gotbatu.com, proxy
+host-suffix, airtable.com, proxy
+host-suffix, tinyurl.com, proxy
+host, my.nicegram.app, proxy
+host, api.playond.com, proxy
+host, js.intercomcdn.com, proxy
+host-suffix, intercom.io, proxy
+host, logs-01.loggly.com, proxy
+host-suffix, urlencoder.org, proxy
+host-keyword, tingles, proxy
+host, p14-buy.itunes.apple.com, proxy
+host, ssl-api.itranslateapp.com, proxy
+host-suffix, touhou.plus, proxy
+host-keyword, prisma, proxy
+host-suffix, ebb.io, proxy
+host-suffix, uwp.pp.ua, proxy
+host-suffix, aoaomoe.me, proxy
+host-suffix, signal.art, direct
+host-suffix, signal.org, direct
+host-suffix, signalusers.org, direct
+host-suffix, whispersystems.org, direct
+host-suffix, facebook.com, direct
+host-suffix, cdninstagram.com, direct
+host-suffix, fb.com, direct
+host-suffix, fb.me, direct
+host-suffix, fb.watch, direct
+host-suffix, accountkit.com, direct
+host-suffix, fbcdn.net, direct
+host-suffix, instagram.com, direct
+host-suffix, m.me, direct
+host-suffix, messenger.com, direct
+host-suffix, fbmessenger.com, direct
+host-suffix, oculus.com, direct
+host-suffix, oculuscdn.com, direct
+host-suffix, f8.com, direct
+host-suffix, tfbnw.net, direct
+host-suffix, fbsbx.com, direct
+host-suffix, threads.net, direct
+host-suffix, facebook-hardware.com, direct
+host-keyword, facebook, direct
+host-keyword, whatsapp, direct
+host-suffix, wa.me, direct
+host-suffix, x.com, direct
+host-suffix, t.co, direct
+host-suffix, twimg.co, direct
+host-suffix, twimg.com, direct
+host-suffix, twitpic.com, direct
+host-suffix, twitter.com, direct
+host-suffix, twitter.jp, direct
+host-suffix, vine.co, direct
+host-suffix, periscope.tv, direct
+host-suffix, pscp.tv, direct
+host-suffix, outlook.office365.com, direct
+host-suffix, smtp.office365.com, direct
+host-suffix, imap-mail.outlook.com, direct
+host-suffix, www.googleapis.com, direct
+host-suffix, docs.google.com, direct
+host-suffix, drive.google.com, direct
+host-suffix, googledrive.com, direct
+host-suffix, googleusercontent.com, direct
+host-suffix, pop.gmail.com, direct
+host-suffix, apple.imap.mail.yahoo.com, direct
+host-suffix, apple.smtp.mail.yahoo.com, direct
+host-suffix, imap-mail.outlook.com, direct
+host-suffix, imap.gmail.com, direct
+host-suffix, outlook.office365.com, direct
+host-suffix, pop.gmail.com, direct
+host-suffix, smtp-mail.outlook.com, direct
+host-suffix, smtp.gmail.com, direct
+host-suffix, smtp.office365.com, direct
+host-suffix, imap.yandex.com, direct
+host-suffix, m.hotmail.com, direct
+host-suffix, smtp.yandex.com, direct
+ip-cidr, 17.57.145.9/24, direct
+ip-cidr, 17.57.145.85/24, direct
+ip-cidr, 17.57.145.8/24, direct
+ip-cidr, 17.57.145.72/24, direct
+ip-cidr, 17.57.145.71/24, direct
+ip-cidr, 17.57.145.7/24, direct
+ip-cidr, 17.57.145.69/24, direct
+ip-cidr, 17.57.145.68/24, direct
+ip-cidr, 17.57.145.55/24, direct
+ip-cidr, 17.57.145.54/24, direct
+ip-cidr, 17.57.145.5/24, direct
+ip-cidr, 17.57.145.4/24, direct
+ip-cidr, 17.57.145.27/24, direct
+ip-cidr, 17.57.145.26/24, direct
+ip-cidr, 17.57.145.25/24, direct
+ip-cidr, 17.57.145.21/24, direct
+ip-cidr, 17.57.145.172/24, direct
+ip-cidr, 17.57.145.171/24, direct
+ip-cidr, 17.57.145.170/24, direct
+ip-cidr, 17.57.145.169/24, direct
+ip-cidr, 17.57.145.168/24, direct
+ip-cidr, 17.57.145.167/24, direct
+ip-cidr, 17.57.145.166/24, direct
+ip-cidr, 17.57.145.165/24, direct
+ip-cidr, 17.57.145.164/24, direct
+ip-cidr, 17.57.145.150/24, direct
+ip-cidr, 17.57.145.149/24, direct
+ip-cidr, 17.57.145.148/24, direct
+ip-cidr, 17.57.145.138/24, direct
+ip-cidr, 17.57.145.137/24, direct
+ip-cidr, 17.57.145.136/24, direct
+ip-cidr, 17.57.145.135/24, direct
+ip-cidr, 17.57.145.134/24, direct
+ip-cidr, 17.57.145.133/24, direct
+ip-cidr, 17.57.145.102/24, direct
+ip-cidr, 17.57.145.101/24, direct
+ip-cidr, 17.57.145.100/24, direct
+ip-cidr, 17.252.204.93/24, direct
+ip-cidr, 17.252.204.86/24, direct
+ip-cidr, 17.252.204.76/24, direct
+ip-cidr, 17.252.204.71/24, direct
+ip-cidr, 17.252.204.207/24, direct
+ip-cidr, 17.252.204.153/24, direct
+ip-cidr, 17.252.157.35/24, direct
+ip-cidr, 17.252.157.15/24, direct
+ip-cidr, 17.252.157.12/24, direct
+ip-cidr, 17.188.183.4/24, direct
+ip-cidr, 17.188.182.68/24, direct
+ip-cidr, 17.188.182.4/24, direct
+ip-cidr, 17.188.182.196/24, direct
+ip-cidr, 17.188.182.132/24, direct
+ip-cidr, 17.188.172.74/24, direct
+ip-cidr, 17.188.172.10/24, direct
+ip-cidr, 17.188.171.74/24, direct
+ip-cidr, 17.188.171.202/24, direct
+ip-cidr, 17.188.171.138/24, direct
+ip-cidr, 17.188.167.58/24, direct
+ip-cidr, 17.188.167.215/24, direct
+ip-cidr, 17.188.167.210/24, direct
+ip-cidr, 17.188.167.20/24, direct
+ip-cidr, 17.188.167.156/24, direct
+ip-cidr, 17.188.167.152/24, direct
+ip-cidr, 17.188.166.98/24, direct
+ip-cidr, 17.188.166.214/24, direct
+ip-cidr, 17.188.166.160/24, direct
+ip-cidr, 17.188.166.158/24, direct
+ip-cidr, 17.188.166.108/24, direct
+ip-cidr, 17.188.165.85/24, direct
+ip-cidr, 17.188.165.155/24, direct
+ip-cidr, 17.188.165.152/24, direct
+ip-cidr, 17.188.164.94/24, direct
+ip-cidr, 17.188.164.86/24, direct
+ip-cidr, 17.188.164.57/24, direct
+ip-cidr, 17.188.164.31/24, direct
+ip-cidr, 17.188.164.254/24, direct
+ip-cidr, 17.188.164.220/24, direct
+ip-cidr, 17.188.164.183/24, direct
+ip-cidr, 17.188.164.156/24, direct
+ip-cidr, 17.188.164.155/24, direct
+ip-cidr, 17.188.164.153/24, direct
+ip-cidr, 17.188.163.28/24, direct
+ip-cidr, 17.188.163.217/24, direct
+ip-cidr, 17.188.163.211/24, direct
+ip-cidr, 17.188.163.186/24, direct
+ip-cidr, 17.188.163.152/24, direct
+ip-cidr, 17.188.162.85/24, direct
+ip-cidr, 17.188.162.58/24, direct
+ip-cidr, 17.188.162.23/24, direct
+ip-cidr, 17.188.161.95/24, direct
+ip-cidr, 17.188.161.93/24, direct
+ip-cidr, 17.188.161.85/24, direct
+ip-cidr, 17.188.161.29/24, direct
+ip-cidr, 17.188.161.23/24, direct
+ip-cidr, 17.188.161.221/24, direct
+ip-cidr, 17.188.161.184/24, direct
+ip-cidr, 17.188.161.145/24, direct
+ip-cidr, 17.188.160.90/24, direct
+ip-cidr, 17.188.160.223/24, direct
+ip-cidr, 17.188.160.210/24, direct
+ip-cidr, 17.188.160.21/24, direct
+ip-cidr, 17.188.158.49/24, direct
+ip-cidr, 17.188.158.45/24, direct
+ip-cidr, 17.188.157.39/24, direct
+ip-cidr, 17.188.156.188/24, direct
+ip-cidr, 17.188.156.177/24, direct
+ip-cidr, 17.188.156.172/24, direct
+ip-cidr, 17.188.156.169/24, direct
+ip-cidr, 17.188.156.166/24, direct
+ip-cidr, 17.188.155.50/24, direct
+ip-cidr, 17.188.155.39/24, direct
+ip-cidr, 17.188.155.179/24, direct
+ip-cidr, 17.188.155.170/24, direct
+ip-cidr, 17.188.154.178/24, direct
+ip-cidr, 17.188.154.148/24, direct
+ip-cidr, 17.188.153.57/24, direct
+ip-cidr, 17.188.153.46/24, direct
+ip-cidr, 17.188.153.169/24, direct
+ip-cidr, 17.188.152.52/24, direct
+ip-cidr, 17.188.152.50/24, direct
+ip-cidr, 17.188.152.175/24, direct
+ip-cidr, 17.188.152.168/24, direct
+ip-cidr, 17.188.151.40/24, direct
+ip-cidr, 17.188.151.38/24, direct
+ip-cidr, 17.188.151.36/24, direct
+ip-cidr, 17.188.151.177/24, direct
+ip-cidr, 17.188.151.176/24, direct
+ip-cidr, 17.188.151.168/24, direct
+ip-cidr, 17.188.150.41/24, direct
+ip-cidr, 17.188.150.184/24, direct
+ip-cidr, 17.188.150.173/24, direct
+ip-cidr, 17.188.149.40/24, direct
+ip-cidr, 17.188.149.169/24, direct
+ip-cidr, 17.188.148.52/24, direct
+ip-cidr, 17.188.148.38/24, direct
+ip-cidr, 17.188.147.55/24, direct
+ip-cidr, 17.188.147.53/24, direct
+ip-cidr, 17.188.147.41/24, direct
+ip-cidr, 17.188.147.4/24, direct
+ip-cidr, 17.188.147.169/24, direct
+ip-cidr, 17.188.147.167/24, direct
+ip-cidr, 17.188.146.182/24, direct
+ip-cidr, 17.188.146.172/24, direct
+ip-cidr, 17.188.145.46/24, direct
+ip-cidr, 17.188.144.52/24, direct
+ip-cidr, 17.188.144.44/24, direct
+ip-cidr, 17.188.144.188/24, direct
+ip-cidr, 17.188.142.37/24, direct
+ip-cidr, 17.188.142.168/24, direct
+ip-cidr, 17.188.142.166/24, direct
+ip-cidr, 17.188.142.160/24, direct
+ip-cidr, 17.188.141.33/24, direct
+ip-cidr, 17.188.141.31/24, direct
+ip-cidr, 17.188.141.185/24, direct
+ip-cidr, 17.188.141.175/24, direct
+ip-cidr, 17.188.141.163/24, direct
+ip-cidr, 17.188.141.162/24, direct
+ip-cidr, 17.188.141.161/24, direct
+ip-cidr, 17.188.140.58/24, direct
+ip-cidr, 17.188.140.50/24, direct
+ip-cidr, 17.188.139.30/24, direct
+ip-cidr, 17.188.138.30/24, direct
+ip-cidr, 17.188.138.165/24, direct
+ip-cidr, 17.188.137.171/24, direct
+ip-cidr, 17.188.137.165/24, direct
+ip-cidr, 17.188.136.59/24, direct
+ip-cidr, 17.188.136.190/24, direct
+ip-cidr, 17.188.136.158/24, direct
+ip-cidr, 17.188.136.157/24, direct
+ip-cidr, 17.188.135.44/24, direct
+ip-cidr, 17.188.135.43/24, direct
+ip-cidr, 17.188.135.38/24, direct
+ip-cidr, 17.188.135.31/24, direct
+ip-cidr, 17.188.135.159/24, direct
+ip-cidr, 17.188.134.60/24, direct
+ip-cidr, 17.188.134.32/24, direct
+ip-cidr, 17.188.134.169/24, direct
+ip-cidr, 17.188.134.161/24, direct
+ip-cidr, 17.188.134.159/24, direct
+ip-cidr, 17.188.133.39/24, direct
+ip-cidr, 17.188.133.34/24, direct
+ip-cidr, 17.188.133.33/24, direct
+ip-cidr, 17.188.132.171/24, direct
+ip-cidr, 17.188.132.168/24, direct
+ip-cidr, 17.188.132.160/24, direct
+ip-cidr, 17.188.131.147/24, direct
+ip-cidr, 17.188.131.14/24, direct
+ip-cidr, 17.188.131.13/24, direct
+ip-cidr, 17.188.130.175/24, direct
+ip-cidr, 17.188.130.16/24, direct
+ip-cidr, 17.188.129.19/24, direct
+ip-cidr, 17.188.129.139/24, direct
+ip-cidr, 17.188.128.24/24, direct
+ip-cidr, 17.188.128.144/24, direct
+ip-cidr, 17.188.128.142/24, direct
+ip-cidr, 17.188.128.140/24, direct
+host-suffix, init.push.apple.com, direct
+host-suffix, push.apple.com, direct
+host-suffix, push.apple.com, direct
+host-suffix, api.push.apple.com, direct
+# > Google Drive
+HOST-SUFFIX,m.inftab.com,DIRECT
+host-suffix,m.inftab.com,DIRECT
+HOST-SUFFIX,docs.google.com ,DIRECT
+HOST-SUFFIX,drive.google.com ,DIRECT
+HOST-SUFFIX,googledrive.com ,DIRECT
+HOST-SUFFIX,sub-store.vercel.app,DIRECT
+# youtube music 
+HOST,music.youtube.com,DIRECT
+# > user-agent 
+USER-AGENT,Telegram,DIRECT
+USER-AGENT,WhatsApp,DIRECT
+USER-AGENT,Instagram,DIRECT
+USER-AGENT,Speedtest,DIRECT
+HOST-SUFFIX,ls.apple.com,DIRECT 
+HOST-SUFFIX,store.apple.com,DIRECT
+HOST-SUFFIX,content-storage-upload.googleapis.com,DIRECT
+HOST-SUFFIX,content-storage-download.googleapis.com,DIRECT
+HOST-SUFFIX,s3.dualstack.ap-southeast-1.amazonaws.com,DIRECT 
+HOST,iosapps.itunes.apple.com,DIRECT
+# OpenAi
+host, captive.apple.com, direct
+;host-suffix, apple.com, direct
+;host-suffix, appldnld.apple.com
+host-suffix, , recaptcha.net, DIRECT
+host-suffix, recaptcha.net, DIRECT
+host-suffix, recaptcha.net, DIRECT
+host-suffix, www.recaptcha.net, DIRECT
+host-suffix, www.recaptcha.net,DIRECT
+host-suffix, www.recaptcha.net,DIRECT  
+host-suffix, recaptcha.net, DIRECT
+IP-CIDR,0.0.0.0/8,DIRECT 
+IP-CIDR,10.0.0.0/8,DIRECT 
+IP-CIDR,100.64.0.0/10,DIRECT 
+IP-CIDR,127.0.0.0/8,DIRECT 
+IP-CIDR,172.16.0.0/12,DIRECT 
+IP-CIDR,169.254.0.0/16,DIRECT 
+IP-CIDR,192.168.0.0/16,DIRECT 
+IP-CIDR,224.0.0.0/4,DIRECT 
+IP6-CIDR,::1/128,DIRECT 
+IP6-CIDR,fc00::/7,DIRECT 
+IP6-CIDR,fe80::/10,DIRECT 
+HOST-SUFFIX,impala-media-production.s3.amazonaws.com
+HOST-SUFFIX,sc-cdn.net
+HOST-SUFFIX,snap-dev.net
+HOST-SUFFIX,snap.com
+HOST-SUFFIX,snapads.com
+HOST-SUFFIX,snapkit.co
+USER-AGENT,OneDrive
+USER-AGENT,PayPal
+USER-AGENT,TikTok
+USER-AGENT,WhatsApp
+USER-AGENT,com.apple.trustd
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
+IP-CIDR,139.178.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+IP-CIDR,144.178.48.0/20,no-resolve
+IP-CIDR,192.35.50.0/24,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
+IP-CIDR,205.180.175.0/24,no-resolve
+# > TikTok
+HOST-SUFFIX,p16-tiktokcdn-com.akamaized.net
+HOST-SUFFIX,byteoversea.com
+HOST-SUFFIX,ibytedtos.com
+HOST-SUFFIX,ibyteimg.com
+HOST-SUFFIX,ipstatp.com
+HOST-SUFFIX,muscdn.com
+HOST-SUFFIX,musical.ly
+HOST-SUFFIX,sgpstatp.com
+HOST-SUFFIX,snssdk.com
+HOST-SUFFIX,tik-tokapi.com
+HOST-SUFFIX,tiktok.com
+HOST-SUFFIX,tiktokcdn.com
+HOST-SUFFIX,tiktokv.com
+HOST-KEYWORD,-tiktokcdn-com
+HOST-KEYWORD,musical.ly
+HOST-KEYWORD,tiktok
+HOST-KEYWORD,tiktokv
+USER-AGENT,TikTok
+IP-CIDR,192.133.76.0/22
+IP-CIDR,199.16.156.0/22
+IP-CIDR,199.59.148.0/22
+IP-CIDR,199.96.56.0/21
+IP-CIDR,202.160.128.0/22
+IP-CIDR,209.237.192.0/19
+IP-CIDR,69.195.160.0/19
+HOST-SUFFIX,imap-mail.outlook.com
+HOST-SUFFIX,outlook.office365.com
+HOST-SUFFIX,smtp.gmail.com
+HOST-SUFFIX,smtp-mail.outlook.com
+HOST-SUFFIX,imap.yandex.com
+HOST-SUFFIX,imap.gmail.com
+HOST-SUFFIX,smtp.yandex.com
+HOST-SUFFIX,pop.gmail.com
+HOST-SUFFIX,m.hotmail.com
+HOST-SUFFIX,apple.smtp.mail.yahoo.com
+HOST-SUFFIX,smtp.office365.com
+HOST-SUFFIX,apple.imap.mail.yahoo.com
+# Dropbox
+HOST-SUFFIX,dropbox.com
+HOST-SUFFIX,dropboxapi.com
+HOST-SUFFIX,dropboxusercontent.com
+# > Tutanota
+host-suffix, tuta.com
+host-suffix, tutanota.com
+# > Deepl
+host-suffix, deepl.com
+# >> mega
+# MEGA
+.mega.nz
+.mega.io
+.mega.co.nz
+# >> hCaptcha
+HOST-SUFFIX,newassets.hcaptcha.com
+;host-suffix, .itunes.apple.com, direct
+;host-suffix, .apps.apple.com, direct
+;host-suffix, .mzstatic.com, direct
+#host-suffix, .icloud-content.com, direct
+# Akamai
+HOST-SUFFIX,addlive.io
+HOST-SUFFIX,feelinsonice.com
+HOST-SUFFIX,sc-cdn.net
+HOST-SUFFIX,sc-corp.net
+HOST-SUFFIX,sc-gw.com
+HOST-SUFFIX,sc-jpl.com
+HOST-SUFFIX,sc-prod.net
+HOST-SUFFIX,sc-static.net
+HOST-SUFFIX,snapads.com
+HOST-SUFFIX,snap-dev.net
+HOST-SUFFIX,snapkit.com
+HOST-SUFFIX,snapmap.com
+HOST-SUFFIX,snapmap.org
+HOST-SUFFIX,snapmaps.com
+HOST-SUFFIX,snap-storage-cdn.l.google.com
+HOST-SUFFIX,us-east1-aws.api.sc-gw.com
+HOST-SUFFIX,gcp.api.sc-gw.com
+HOST-SUFFIX,ap-southeast1-aws.api.sc-gw.com
+HOST-SUFFIX,aws-proxy-gcp.api.sc-gw.com
+HOST-SUFFIX,us-central1-gcp.api.sc-gw.com
+HOST-SUFFIX,ap-southeast1-aws.duplex.sc-gw.com
+HOST-SUFFIX,us-east1-aws-acc.api.sc-gw.com
+HOST-SUFFIX,us-east4-gcp.api.sc-gw.com
+HOST-SUFFIX,us-east1-aws.duplex.sc-gw.com
+HOST-SUFFIX,asia-southeast1-gcp.api.sc-gw.com
+HOST-SUFFIX,web-gcp.api.sc-gw.com
+HOST-SUFFIX,usc1-gcp-v62.api.sc-gw.com
+HOST-SUFFIX,europe-west1-gcp.api.sc-gw.com
+# WhatsApp
+HOST-SUFFIX,whatsapp.com,DIRECT
+HOST-SUFFIX,whatsapp.net,DIRECT
+# Reddit
+HOST-SUFFIX,redd.it,Reddit
+HOST-SUFFIX,reddit.com,Reddit
+HOST-SUFFIX,redditinc.com,Reddit
+HOST-SUFFIX,redditmail.com,Reddit
+USER-AGENT,OneDrive
+HOST-KEYWORD,onedrive
+USER-AGENT,PayPal
+HOST-KEYWORD,paypal
+HOST-SUFFIX,paypal.com
+HOST-SUFFIX,paypalobjects.com
+HOST-KEYWORD,telegram
+HOST-SUFFIX,t.me
+HOST-SUFFIX,tx.me
+HOST-SUFFIX,tdesktop.com
+HOST-SUFFIX,telegra.ph
+HOST-SUFFIX,telegram.me
+HOST-SUFFIX,telegram.org
+HOST-SUFFIX,telegram-cdn.org
+HOST-SUFFIX,telesco.pe
+IP-CIDR,91.105.192.0/23
+IP-CIDR,91.108.0.0/16
+IP-CIDR,109.239.140.0/24
+IP-CIDR,149.154.160.0/20
+IP-CIDR,185.76.151.0/24
+IP6-CIDR,2001:67c:4e8::/48
+IP6-CIDR,2001:b28:f23d::/48
+IP6-CIDR,2001:b28:f23f::/48
+IP6-CIDR,2a0a:f280::/32
+USER-AGENT,WhatsApp
+HOST-SUFFIX,x.com
+HOST-SUFFIX,whatsapp.com
+HOST-SUFFIX,whatsapp.net
+HOST-KEYWORD,gmail
+HOST-KEYWORD,sci-hub
+HOST-KEYWORD,skydrive
+HOST-KEYWORD,spotify
+HOST-KEYWORD,ttvnw
+USER-AGENT,com.apple.trustd
+IP-CIDR,120.232.181.162/32
+IP-CIDR,120.241.147.226/32
+IP-CIDR,120.253.253.226/32
+IP-CIDR,120.253.255.162/32
+IP-CIDR,120.253.255.34/32
+IP-CIDR,120.253.255.98/32
+IP-CIDR,13.32.0.0/15
+IP-CIDR,14.102.250.18/31
+IP-CIDR,147.92.128.0/17
+IP-CIDR,158.85.224.160/27
+IP-CIDR,158.85.46.128/27
+IP-CIDR,158.85.5.192/27
+IP-CIDR,173.192.222.160/27
+IP-CIDR,173.192.231.32/27
+IP-CIDR,173.252.64.0/18
+IP-CIDR,174.142.105.153/32
+IP-CIDR,180.163.150.162/32
+IP-CIDR,180.163.150.34/32
+IP-CIDR,180.163.151.162/32
+IP-CIDR,180.163.151.34/32
+IP-CIDR,184.173.128.0/17
+IP-CIDR,203.104.128.0/19
+IP-CIDR,203.208.39.0/24
+IP-CIDR,203.208.40.0/23
+IP-CIDR,203.208.43.0/24
+IP-CIDR,203.208.50.0/24
+IP-CIDR,220.181.174.162/32
+IP-CIDR,220.181.174.226/32
+IP-CIDR,220.181.174.34/32
+IP-CIDR,34.224.0.0/12
+IP-CIDR,50.22.198.204/30
+IP-CIDR,54.242.0.0/15
+IP-CIDR,67.220.91.15/32
+IP-CIDR,67.220.91.18/32
+IP-CIDR,67.220.91.23/32
+IP-CIDR,69.65.19.160/32
+IP-CIDR,72.52.81.22/32
+#geoip,CN
+#geoip,JP
+#geoip,HK
+#geoip,SG
+#geoip,TW
+#geoip,KR
+#geoip,TH
+#geoip,IN
+#geoip,PH
+#geoip,AS
+#geoip,TR
+#geoip,AE
+#geoip,BH
+#geoip,IR
+#geoip,IQ
+#geoip,IL
+#geoip,JO
+#geoip,KW
+#geoip,LB
+#geoip,OM
+#geoip,QA
+#geoip,SA
+#geoip,SY
+#geoip,PS
+#geoip,AF
+#geoip,AM
+#geoip,AZ
+#geoip,BD
+#geoip,BN
+#geoip,BT
+#geoip,CC
+#geoip,GE
+#geoip,ID
+#geoip,IO
+#geoip,KG
+#geoip,KH
+#geoip,KP
+#geoip,KZ
+#geoip,LA
+#geoip,LK
+#geoip,MM
+#geoip,MN
+#geoip,MO
+#geoip,MV
+#geoip,MY
+#geoip,NP
+#geoip,PK
+#geoip,TJ
+#geoip,TM
+#geoip,UZ
+#geoip,VN
+#geoip,YE
+#[Ruleset ApplePushReject]
+HOST-SUFFIX,push.apple.com
+IP6-CIDR, 2620:149:a44::/48, DIRECT
+IP6-CIDR, 2403:300:a42::/48, DIRECT
+IP6-CIDR, 2403:300:a51::/48, DIRECT
+IP6-CIDR, 2a01:b740:a42::/48, DIRECT
+#[Ruleset ApplePush]
+HOS-SUFFIX,courier.push.apple.com
+HOST-SUFFIX,init.push.apple.com
+HOST-SUFFIX,courier-ab-vs.push.apple.com
+IP-CIDR,17.249.0.0/16
+IP-CIDR,17.252.0.0/16
+IP-CIDR,17.57.144.0/22
+IP-CIDR,17.188.128.0/18
+IP-CIDR,17.188.20.0/23
+IP-CIDR6,2620:149:a44::/48
+IP-CIDR6,2403:300:a42::/48
+IP-CIDR6,2403:300:a51::/48
+IP-CIDR6,2a01:b740:a42::/48
