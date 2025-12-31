@@ -1,0 +1,1228 @@
+# > Google Drive
+# Bing Image AI
+DOMAIN,apple.imap.mail.yahoo.com
+DOMAIN,apple.smtp.mail.yahoo.com
+DOMAIN,imap-mail.outlook.com
+DOMAIN,imap.gmail.com
+DOMAIN,outlook.office365.com
+DOMAIN,pop.gmail.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,smtp.gmail.com
+DOMAIN,smtp.office365.com
+DOMAIN-SUFFIX,m.hotmail.com
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonstatus.com
+DOMAIN-SUFFIX,mail.icloud.com.cn
+DOMAIN-SUFFIX,mail.me.com
+
+
+HOST-SUFFIX,qobuz.com
+HOST-SUFFIX, rochat.ai
+HOST, rochat.ai
+HOST, diffusion.site
+HOST-SUFFIX, diffusion.site
+HOST-SUFFIX, api.rochathub.com
+HOST, api.rochathub.com
+HOST-SUFFIX, ampproject.org
+HOST-SUFFIX, cdn.ampproject.org
+HOST-SUFFIX,cdn-aws.rochat.ai
+HOST,cdn-aws.rochat.ai
+HOST, cdn-az.rochat.ai
+HOST-SUFFIX, cdn-az.rochat.ai
+HOST-SUFFIX,m.inftab.com,DIRECT
+HOST-SUFFIX,m.inftab.com,DIRECT
+HOST-SUFFIX,sub-store.vercel.app,DIRECT
+HOST-SUFFIX,whatsapp.net,DIRECT
+HOST-SUFFIX,chat.snapchat.com,DIRECT
+HOST-SUFFIX,api.snapchat.com,DIRECT
+HOST-SUFFIX,cf-st.sc-cdn.net,DIRECT
+# youtube music 
+HOST-SUFFIX,.rochathub.com,DIRECT
+HOST-SUFFIX,rochathub.com,DIRECT
+# > user-agent 
+USER-AGENT,*Telegram*,DIRECT
+USER-AGENT,WhatsApp*,DIRECT
+USER-AGENT,Instagram*,DIRECT
+USER-AGENT,Speedtest*,DIRECT
+HOST-SUFFIX,ls.apple.com,DIRECT 
+HOST-SUFFIX,store.apple.com,DIRECT
+HOST-SUFFIX,content-storage-upload.googleapis.com,DIRECT
+HOST-SUFFIX,content-storage-download.googleapis.com,DIRECT
+HOST-SUFFIX,s3.dualstack.ap-southeast-1.amazonaws.com,DIRECT 
+HOST,iosapps.itunes.apple.com,DIRECT
+# Direct
+// 本地/局域网地址
+HOST-SUFFIX,ip6-localhost,DIRECT
+HOST-SUFFIX,ip6-loopback,DIRECT
+HOST-SUFFIX,local,DIRECT
+HOST-SUFFIX,localhost,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+IP6-CIDR,::1/128,DIRECT
+IP6-CIDR,fc00::/7,DIRECT
+IP6-CIDR,fe80::/10,DIRECT
+IP6-CIDR,fd00::/8,DIRECT
+
+//Apple
+HOST-SUFFIX,apple.com,DIRECT
+HOST-SUFFIX,crashlytics.com,DIRECT
+HOST-SUFFIX,icloud.com,DIRECT
+HOST-SUFFIX,itunes.com,DIRECT
+HOST-SUFFIX,push-apple.com.akadns.net,DIRECT
+HOST-SUFFIX,aaplimg.com,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+USER-AGENT,%E5%9C%B0%E5%9B%BE*,DIRECT
+USER-AGENT,%E8%AE%BE%E7%BD%AE*,DIRECT
+USER-AGENT,*com.apple.mobileme.fmip1,DIRECT
+USER-AGENT,*WeatherFoundation*,DIRECT
+USER-AGENT,AssistantServices*,DIRECT
+USER-AGENT,MobileAsset*,DIRECT
+USER-AGENT,Siri*,DIRECT
+USER-AGENT,cloudd*,DIRECT
+USER-AGENT,com.apple.appstored*,DIRECT
+USER-AGENT,com.apple.geod*,DIRECT
+USER-AGENT,com.apple.Maps,DIRECT
+USER-AGENT,FindMyFriends*,DIRECT
+USER-AGENT,FindMyiPhone*,DIRECT
+USER-AGENT,FMDClient*,DIRECT
+USER-AGENT,FMFD*,DIRECT
+USER-AGENT,fmflocatord*,DIRECT
+USER-AGENT,geod*,DIRECT
+USER-AGENT,locationd*,DIRECT
+USER-AGENT,Maps*,DIRECT
+USER-AGENT,*Passbook*,DIRECT
+USER-AGENT,passd*,DIRECT
+USER-AGENT,seld*,DIRECT
+USER-AGENT,trustd*,DIRECT
+USER-AGENT,Wallet*,DIRECT
+USER-AGENT,AssistantServices*,DIRECT
+USER-AGENT,MobileAsset*,DIRECT
+USER-AGENT,Siri*,DIRECT
+HOST-SUFFIX,api.smoot.apple.com.cn,DIRECT
+HOST-SUFFIX,captive.apple.com,DIRECT
+HOST-SUFFIX,cn-smp-paymentservices.apple.com,DIRECT
+HOST-SUFFIX,smp-device.apple.com,DIRECT
+HOST-SUFFIX,smp-device-content.apple.com,DIRECT
+HOST-SUFFIX,sp.itunes.apple.com,DIRECT
+HOST-SUFFIX,ess.apple.com,DIRECT
+HOST-SUFFIX,push.apple.com,DIRECT
+HOST-SUFFIX,gs-loc.apple.com,DIRECT
+HOST-SUFFIX,ls.apple.com,DIRECT
+
+HOST-SUFFIX,softpedia.com,DIRECT
+HOST-SUFFIX,mtalk.google.com,DIRECT
+# > UA
+USER-AGENT, AwemeI18n*
+USER-AGENT, Coinbase*
+USER-AGENT, Instagram*
+USER-AGENT, Resilio Sync*
+USER-AGENT, WhatsApp*
+
+
+# > Line
+HOST-SUFFIX, lin.ee
+HOST-SUFFIX, line.me
+HOST-SUFFIX, line.naver.jp
+HOST-SUFFIX, line-apps.com
+HOST-SUFFIX, line-cdn.net
+HOST-SUFFIX, line-scdn.net
+HOST-SUFFIX, nhncorp.jp
+
+# > Microsoft Proxy
+USER-AGENT, OneDrive*
+HOST-KEYWORD, onedrive
+HOST-SUFFIX, onedrive.com
+HOST-SUFFIX, skype.com
+HOST-SUFFIX, storage.live.com
+
+# > PayPal
+USER-AGENT, PayPal*
+HOST-KEYWORD, paypal
+HOST-SUFFIX, paypal.com
+HOST-SUFFIX, paypalobjects.com
+
+
+# > Spark
+HOST-SUFFIX, api.amplitude.com
+HOST-SUFFIX, app.smartmailcloud.com
+HOST-SUFFIX, gate.hockeyapp.net
+HOST-SUFFIX, smartmailcloud.com
+
+# > Steam
+HOST-SUFFIX, fanatical.com
+HOST-SUFFIX, humblebundle.com
+HOST-SUFFIX, steamcommunity.com
+HOST-SUFFIX, steampowered.com
+HOST-SUFFIX, steamstatic.com
+
+# > Telegram
+HOST-KEYWORD, telegram
+HOST-SUFFIX, t.me
+HOST-SUFFIX, tdesktop.com
+HOST-SUFFIX, telegram.me
+HOST-SUFFIX, telegram.org
+IP-CIDR, 91.108.0.0/16
+IP-CIDR, 109.239.140.0/24
+IP-CIDR, 149.154.160.0/20
+IP6-CIDR, 2001:67c:4e8::/48
+IP6-CIDR, 2001:b28:f23d::/48
+IP6-CIDR, 2001:b28:f23f::/48
+
+# > Zooba
+USER-AGENT, battleroyale*
+
+# > Top blocked sites
+HOST-SUFFIX, 2o7.net
+HOST-SUFFIX, 4everProxy.com
+HOST-SUFFIX, 4shared.com
+HOST-SUFFIX, 4sqi.net
+HOST-SUFFIX, 91porn.com
+HOST-SUFFIX, 9to5mac.com
+HOST-SUFFIX, abpchina.org
+HOST-SUFFIX, accountkit.com
+HOST-SUFFIX, adblockplus.org
+HOST-SUFFIX, adobe.com
+HOST-SUFFIX, adobedtm.com
+HOST-SUFFIX, aerisapi.com
+HOST-SUFFIX, airtable.com
+HOST-SUFFIX, alfredapp.com
+HOST-SUFFIX, allconnected.co
+HOST-SUFFIX, amazon.co
+HOST-SUFFIX, amazon.com
+HOST-SUFFIX, amazonaws.com
+HOST-SUFFIX, ampproject.com
+HOST-SUFFIX, ampproject.net
+HOST-SUFFIX, ampproject.org
+HOST-SUFFIX, anaconda.com
+HOST-SUFFIX, ancsconf.org
+HOST-SUFFIX, android.com
+HOST-SUFFIX, androidify.com
+HOST-SUFFIX, android-x86.org
+HOST-SUFFIX, angularjs.org
+HOST-SUFFIX, anthonycalzadilla.com
+HOST-SUFFIX, aol.com
+HOST-SUFFIX, aolcdn.com
+HOST-SUFFIX, api.mixpanel.com
+HOST-SUFFIX, api.termius.com
+HOST-SUFFIX, api.tiktokv.com
+HOST-SUFFIX, api.urbandictionary.com
+HOST-SUFFIX, apigee.com
+HOST-SUFFIX, apk-dl.com
+HOST-SUFFIX, apkpure.com
+HOST-SUFFIX, appdownloader.net
+HOST-SUFFIX, apple-dns.net
+HOST-SUFFIX, app-measurement.com
+HOST-SUFFIX, appshopper.com
+HOST-SUFFIX, arcgis.com
+HOST-SUFFIX, archive.is
+HOST-SUFFIX, archive.org
+HOST-SUFFIX, archives.gov
+HOST-SUFFIX, armorgames.com
+HOST-SUFFIX, aspnetcdn.com
+HOST-SUFFIX, async.be
+HOST-SUFFIX, att.com
+HOST-SUFFIX, avgle.com
+HOST-SUFFIX, awsstatic.com
+HOST-SUFFIX, azure.com
+HOST-SUFFIX, azureedge.net
+HOST-SUFFIX, azurewebsites.net
+HOST-SUFFIX, badoo.com
+HOST-SUFFIX, bandisoft.com
+HOST-SUFFIX, bbtoystore.com
+HOST-SUFFIX, betvictor.com
+HOST-SUFFIX, bigsound.org
+HOST-SUFFIX, bintray.com
+HOST-SUFFIX, bit.com
+HOST-SUFFIX, bit.do
+HOST-SUFFIX, bit.ly
+HOST-SUFFIX, bitbucket.org
+HOST-SUFFIX, bitcointalk.org
+HOST-SUFFIX, bitshare.com
+HOST-SUFFIX, bkrtx.com
+HOST-SUFFIX, blog.com
+HOST-SUFFIX, blogcdn.com
+HOST-SUFFIX, blogger.com
+HOST-SUFFIX, bloglovin.com
+HOST-SUFFIX, blogsmithmedia.com
+HOST-SUFFIX, blogspot.hk
+HOST-SUFFIX, bloomberg.cn
+HOST-SUFFIX, bloomberg.com
+HOST-SUFFIX, books.com.tw
+HOST-SUFFIX, boomtrain.com
+HOST-SUFFIX, botanwang.com
+HOST-SUFFIX, box.com
+HOST-SUFFIX, box.net
+HOST-SUFFIX, boxun.com
+HOST-SUFFIX, cachefly.net
+HOST-SUFFIX, cbc.ca
+HOST-SUFFIX, cdn.angruo.com
+HOST-SUFFIX, cdn.segment.com
+HOST-SUFFIX, cdnst.net
+HOST-SUFFIX, celestrak.com
+HOST-SUFFIX, census.gov
+HOST-SUFFIX, certificate-transparency.org
+HOST-SUFFIX, chinadigitaltimes.net
+HOST-SUFFIX, chinatimes.com
+HOST-SUFFIX, chrome.com
+HOST-SUFFIX, chromecast.com
+HOST-SUFFIX, chromercise.com
+HOST-SUFFIX, chromestatus.com
+HOST-SUFFIX, chromium.org
+HOST-SUFFIX, cl.ly
+HOST-SUFFIX, cloudflare.com
+HOST-SUFFIX, cloudfront.net
+HOST-SUFFIX, cloudgarage.jp
+HOST-SUFFIX, cloudmagic.com
+HOST-SUFFIX, cmail19.com
+HOST-SUFFIX, cnet.com
+HOST-SUFFIX, cnn.com
+HOST-SUFFIX, cocoapods.org
+HOST-SUFFIX, comodoca.com
+HOST-SUFFIX, culturedcode.com
+HOST-SUFFIX, cygames.jp
+HOST-SUFFIX, d.pr
+HOST-SUFFIX, danilo.to
+HOST-SUFFIX, daolan.net
+HOST-SUFFIX, data-vocabulary.org
+HOST-SUFFIX, dayone.me
+HOST-SUFFIX, db.tt
+HOST-SUFFIX, dcmilitary.com
+HOST-SUFFIX, deja.com
+HOST-SUFFIX, demdex.net
+HOST-SUFFIX, deskconnect.com
+HOST-SUFFIX, digisfera.com
+HOST-SUFFIX, digitaltrends.com
+HOST-SUFFIX, disconnect.me
+HOST-SUFFIX, disq.us
+HOST-SUFFIX, disqus.com
+HOST-SUFFIX, disquscdn.com
+HOST-SUFFIX, dmm.co.jp
+HOST-SUFFIX, dnsimple.com
+HOST-SUFFIX, docker.com
+HOST-SUFFIX, doub.io
+HOST-SUFFIX, dowjones.com
+HOST-SUFFIX, dribbble.com
+HOST-SUFFIX, droplr.com
+HOST-SUFFIX, duckduckgo.com
+HOST-SUFFIX, dueapp.com
+HOST-SUFFIX, dw.com
+HOST-SUFFIX, easybib.com
+HOST-SUFFIX, economist.com
+HOST-SUFFIX, edgecastcdn.net
+HOST-SUFFIX, edgekey.net
+HOST-SUFFIX, edgesuite.net
+HOST-SUFFIX, engadget.com
+HOST-SUFFIX, entrust.net
+HOST-SUFFIX, eurekavpt.com
+HOST-SUFFIX, evernote.com
+HOST-SUFFIX, extmatrix.com
+HOST-SUFFIX, eyny.com
+HOST-SUFFIX, fabric.io
+HOST-SUFFIX, fast.com
+HOST-SUFFIX, fastly.net
+HOST-SUFFIX, fastmail.com
+HOST-SUFFIX, fc2.com
+HOST-SUFFIX, feedburner.com
+HOST-SUFFIX, feedly.com
+HOST-SUFFIX, feedsportal.com
+HOST-SUFFIX, fiftythree.com
+HOST-SUFFIX, figma.com
+HOST-SUFFIX, firebaseio.com
+HOST-SUFFIX, flexibits.com
+HOST-SUFFIX, flickr.com
+HOST-SUFFIX, flipboard.com
+HOST-SUFFIX, flipkart.com
+HOST-SUFFIX, flitto.com
+HOST-SUFFIX, flurry.com
+HOST-SUFFIX, freeopenProxy.com
+HOST-SUFFIX, fubo.tv
+HOST-SUFFIX, fullstory.com
+HOST-SUFFIX, fzlm.net
+HOST-SUFFIX, g.co
+HOST-SUFFIX, gabia.net
+HOST-SUFFIX, garena.com
+HOST-SUFFIX, gameloft.com
+HOST-SUFFIX, geni.us
+HOST-SUFFIX, get.how
+HOST-SUFFIX, getcloudapp.com
+HOST-SUFFIX, getfoxyProxy.org
+HOST-SUFFIX, getlantern.org
+HOST-SUFFIX, getmdl.io
+HOST-SUFFIX, getpricetag.com
+HOST-SUFFIX, gfw.press
+HOST-SUFFIX, ggpht.com
+HOST-SUFFIX, ghostnoteapp.com
+HOST-SUFFIX, git.io
+HOST-SUFFIX, gitbook.com
+HOST-SUFFIX, globalsign.com
+HOST-SUFFIX, gmocloud.com
+HOST-SUFFIX, gmodules.com
+HOST-SUFFIX, go.com
+HOST-SUFFIX, go.jp
+HOST-SUFFIX, godaddy.com
+HOST-SUFFIX, golang.org
+HOST-SUFFIX, gongm.in
+HOST-SUFFIX, goo.gl
+HOST-SUFFIX, goodreaders.com
+HOST-SUFFIX, goodreads.com
+HOST-SUFFIX, gravatar.com
+HOST-SUFFIX, gstatic.cn
+HOST-SUFFIX, gstatic.com
+HOST-SUFFIX, gunsamerica.com
+HOST-SUFFIX, gvt0.com
+HOST-SUFFIX, gvt1.com
+HOST-SUFFIX, helpshift.com
+HOST-SUFFIX, hinet.net
+HOST-SUFFIX, hockeyapp.net
+HOST-SUFFIX, homedepot.com
+HOST-SUFFIX, hootsuite.com
+HOST-SUFFIX, howtoforge.com
+HOST-SUFFIX, iam.soy
+HOST-SUFFIX, icoco.com
+HOST-SUFFIX, icons8.com
+HOST-SUFFIX, ifixit.com
+HOST-SUFFIX, ift.tt
+HOST-SUFFIX, ifttt.com
+HOST-SUFFIX, imageshack.us
+HOST-SUFFIX, img.ly
+HOST-SUFFIX, imgur.com
+HOST-SUFFIX, imore.com
+HOST-SUFFIX, inoreader.com
+HOST-SUFFIX, ingress.com
+HOST-SUFFIX, insder.co
+HOST-SUFFIX, instapaper.com
+HOST-SUFFIX, instructables.com
+HOST-SUFFIX, io.io
+HOST-SUFFIX, ip.sb
+HOST-SUFFIX, ipaddress.com
+HOST-SUFFIX, ipn.li
+HOST-SUFFIX, is.gd
+HOST-SUFFIX, ishowsapp.com
+HOST-SUFFIX, issuu.com
+HOST-SUFFIX, itgonglun.com
+HOST-SUFFIX, itun.es
+HOST-SUFFIX, ixquick.com
+HOST-SUFFIX, j.mp
+HOST-SUFFIX, javbus.com
+HOST-SUFFIX, js.revsci.net
+HOST-SUFFIX, jshint.com
+HOST-SUFFIX, jtvnw.net
+HOST-SUFFIX, justgetflux.com
+HOST-SUFFIX, kakao.co.kr
+HOST-SUFFIX, kakao.com
+HOST-SUFFIX, kakaocdn.net
+HOST-SUFFIX, kat.cr
+HOST-SUFFIX, kenengba.com
+HOST-SUFFIX, kik.com
+HOST-SUFFIX, klip.me
+HOST-SUFFIX, leancloud.com
+HOST-SUFFIX, leetcode.com
+HOST-SUFFIX, lhie1.com
+HOST-SUFFIX, libsyn.com
+HOST-SUFFIX, licdn.com
+HOST-SUFFIX, lightboxcdn.com
+HOST-SUFFIX, like.com
+HOST-SUFFIX, linkedin.com
+HOST-SUFFIX, linode.com
+HOST-SUFFIX, lithium.com
+HOST-SUFFIX, littlehj.com
+HOST-SUFFIX, livefilestore.com
+HOST-SUFFIX, llnwd.net
+HOST-SUFFIX, localnetwork.uop
+HOST-SUFFIX, logmein.com
+HOST-SUFFIX, macid.co
+HOST-SUFFIX, macromedia.com
+HOST-SUFFIX, macrumors.com
+HOST-SUFFIX, manhuaren.com
+HOST-SUFFIX, marketwatch.com
+HOST-SUFFIX, mashable.com
+HOST-SUFFIX, mathjax.org
+HOST-SUFFIX, maven.org
+HOST-SUFFIX, medium.com
+HOST-SUFFIX, mega.co.nz
+HOST-SUFFIX, mega.nz
+HOST-SUFFIX, megaupload.com
+HOST-SUFFIX, mindnode.com
+HOST-SUFFIX, mlssoccer.com
+HOST-SUFFIX, mobile01.com
+HOST-SUFFIX, modmyi.com
+HOST-SUFFIX, moves-export.com
+HOST-SUFFIX, mp3buscador.com
+HOST-SUFFIX, mycnnews.com
+HOST-SUFFIX, myfontastic.com
+HOST-SUFFIX, name.com
+HOST-SUFFIX, nasa.gov
+HOST-SUFFIX, ndr.de
+HOST-SUFFIX, netdna-cdn.com
+HOST-SUFFIX, newipnow.com
+HOST-SUFFIX, nextmedia.com
+HOST-SUFFIX, nih.gov
+HOST-SUFFIX, nintendo.com
+HOST-SUFFIX, nintendo.net
+HOST-SUFFIX, notion.so
+HOST-SUFFIX, novafile.com
+HOST-SUFFIX, nrk.no
+HOST-SUFFIX, nsstatic.net
+HOST-SUFFIX, nssurge.com
+HOST-SUFFIX, nyt.com
+HOST-SUFFIX, nytimes.com
+HOST-SUFFIX, nytimg.com
+HOST-SUFFIX, nytstyle.com
+HOST-SUFFIX, omnigroup.com
+HOST-SUFFIX, ooyala.com
+HOST-SUFFIX, openvpn.net
+HOST-SUFFIX, openwrt.org
+HOST-SUFFIX, optimizely.com
+HOST-SUFFIX, orkut.com
+HOST-SUFFIX, osha.gov
+HOST-SUFFIX, osxdaily.com
+HOST-SUFFIX, overcast.fm
+HOST-SUFFIX, ow.ly
+HOST-SUFFIX, paddle.com
+HOST-SUFFIX, paddleapi.com
+HOST-SUFFIX, panoramio.com
+HOST-SUFFIX, parallels.com
+HOST-SUFFIX, parse.com
+HOST-SUFFIX, pdfexpert.com
+HOST-SUFFIX, periscope.tv
+HOST-SUFFIX, piaotian.net
+HOST-SUFFIX, picacomic.com
+HOST-SUFFIX, picasaweb.com
+HOST-SUFFIX, pinboard.in
+HOST-SUFFIX, ping.pe
+HOST-SUFFIX, pinterest.com
+HOST-SUFFIX, pixelmator.com
+HOST-SUFFIX, pixiv.net
+HOST-SUFFIX, pixivsketch.net
+HOST-SUFFIX, pixnet.net
+HOST-SUFFIX, playpcesor.com
+HOST-SUFFIX, playstation.com
+HOST-SUFFIX, playstation.com.hk
+HOST-SUFFIX, playstation.net
+HOST-SUFFIX, playstationnetwork.com
+HOST-SUFFIX, pokemon.com
+HOST-SUFFIX, polymer-project.org
+HOST-SUFFIX, popo.tw
+HOST-SUFFIX, potato.im
+HOST-SUFFIX, redd.it
+HOST, repo.maven.apache.org
+HOST-SUFFIX, prfct.co
+HOST-SUFFIX, proxfree.com
+HOST-SUFFIX, psiphon3.com
+HOST-SUFFIX, ptt.cc
+HOST-SUFFIX, pubu.com.tw
+HOST-SUFFIX, puffinbrowser.com
+HOST-SUFFIX, pushbullet.com
+HOST-SUFFIX, pushwoosh.com
+HOST-SUFFIX, pximg.net
+HOST-SUFFIX, quora.com
+HOST-SUFFIX, quoracdn.net
+HOST-SUFFIX, readingtimes.com.tw
+HOST-SUFFIX, readmoo.com
+HOST-SUFFIX, recaptcha.net
+HOST-SUFFIX, reddit.com
+HOST-SUFFIX, redditmedia.com
+HOST-SUFFIX, reuters.com
+HOST-SUFFIX, rfi.fr
+HOST-SUFFIX, rileyguide.com
+HOST-SUFFIX, right.com.cn
+HOST-SUFFIX, rime.im
+HOST-SUFFIX, rsf.org
+HOST-SUFFIX, sciencedaily.com
+HOST-SUFFIX, sciencemag.org
+HOST-SUFFIX, scribd.com
+HOST-SUFFIX, search.com
+HOST-SUFFIX, servebom.com
+HOST-SUFFIX, sexinsex.net
+HOST-SUFFIX, sfx.ms
+HOST-SUFFIX, shadowsocks.org
+HOST-SUFFIX, shadowverse.jp
+HOST-SUFFIX, sharethis.com
+HOST-SUFFIX, shazam.com
+HOST-SUFFIX, shutterstock.com
+HOST-SUFFIX, sidelinesnews.com
+HOST-SUFFIX, simp.ly
+HOST-SUFFIX, simplenote.com
+HOST-SUFFIX, sketchappsources.com
+HOST-SUFFIX, slack.com
+HOST-SUFFIX, slack-edge.com
+HOST-SUFFIX, slack-msgs.com
+HOST-SUFFIX, slideshare.net
+HOST-SUFFIX, smartdnsproxy.com
+HOST-SUFFIX, smh.com.au
+HOST-SUFFIX, snapchat.com
+HOST-SUFFIX, sndcdn.com
+HOST-SUFFIX, sockslist.net
+HOST-SUFFIX, sony.com
+HOST-SUFFIX, sony.com.hk
+HOST-SUFFIX, sonyentertainmentnetwork.com
+HOST-SUFFIX, soundcloud.com
+HOST-SUFFIX, sourceforge.net
+HOST-SUFFIX, sowers.org.hk
+HOST-SUFFIX, speedsmart.net
+HOST-SUFFIX, spike.com
+HOST-SUFFIX, squarespace.com
+HOST-SUFFIX, ssa.gov
+HOST-SUFFIX, sstatic.net
+HOST-SUFFIX, st.luluku.pw
+HOST-SUFFIX, stackoverflow.com
+HOST-SUFFIX, starp2p.com
+HOST-SUFFIX, startpage.com
+HOST-SUFFIX, state.gov
+HOST-SUFFIX, staticflickr.com
+HOST-SUFFIX, storify.com
+HOST-SUFFIX, stumbleupon.com
+HOST-SUFFIX, sugarsync.com
+HOST-SUFFIX, supermariorun.com
+HOST-SUFFIX, surfeasy.com.au
+HOST-SUFFIX, surge.run
+HOST-SUFFIX, surrenderat20.net
+HOST-SUFFIX, sydneytoday.com
+HOST-SUFFIX, symauth.com
+HOST-SUFFIX, symcb.com
+HOST-SUFFIX, symcd.com
+HOST-SUFFIX, t.me
+HOST-SUFFIX, t66y.com
+HOST-SUFFIX, tablesgenerator.com
+HOST-SUFFIX, tabtter.jp
+HOST-SUFFIX, talk853.com
+HOST-SUFFIX, talkboxapp.com
+HOST-SUFFIX, talkonly.net
+HOST-SUFFIX, tapbots.com
+HOST-SUFFIX, tapbots.net
+HOST-SUFFIX, tdesktop.com
+HOST-SUFFIX, techcrunch.com
+HOST-SUFFIX, technorati.com
+HOST-SUFFIX, techsmith.com
+HOST-SUFFIX, teddysun.com
+HOST-SUFFIX, textnow.me
+HOST-SUFFIX, thebobs.com
+HOST-SUFFIX, theinitium.com
+HOST-SUFFIX, thepiratebay.org
+HOST-SUFFIX, theverge.com
+HOST-SUFFIX, thewgo.org
+HOST-SUFFIX, tiltbrush.com
+HOST-SUFFIX, time.com
+HOST-SUFFIX, timeinc.net
+HOST-SUFFIX, tinder.com
+HOST-SUFFIX, tiny.cc
+HOST-SUFFIX, tinychat.com
+HOST-SUFFIX, tinypic.com
+HOST-SUFFIX, tmblr.co
+HOST-SUFFIX, todoist.com
+HOST-SUFFIX, togetter.com
+HOST-SUFFIX, tokyocn.com
+HOST-SUFFIX, tomshardware.com
+HOST-SUFFIX, torcn.com
+HOST-SUFFIX, torrentprivacy.com
+HOST-SUFFIX, torrentproject.se
+HOST-SUFFIX, torrentz.eu
+HOST-SUFFIX, traffichaus.com
+HOST-SUFFIX, trakt.tv
+HOST-SUFFIX, transparency.org
+HOST-SUFFIX, trello.com
+HOST-SUFFIX, trendsmap.com
+HOST-SUFFIX, trulyergonomic.com
+HOST-SUFFIX, trustasiassl.com
+HOST-SUFFIX, tt-rss.org
+HOST-SUFFIX, ttvnw.net
+HOST-SUFFIX, tumblr.co
+HOST-SUFFIX, tumblr.com
+HOST-SUFFIX, turbobit.net
+HOST-SUFFIX, tv.com
+HOST-SUFFIX, tweetdeck.com
+HOST-SUFFIX, tweetmarker.net
+HOST-SUFFIX, twimg.co
+HOST-SUFFIX, twitch.tv
+HOST-SUFFIX, twitthat.com
+HOST-SUFFIX, twtkr.com
+HOST-SUFFIX, twttr.com
+HOST-SUFFIX, txmblr.com
+HOST-SUFFIX, typcn.com
+HOST-SUFFIX, typekit.net
+HOST-SUFFIX, typography.com
+HOST-SUFFIX, ubertags.com
+HOST-SUFFIX, ublock.org
+HOST-SUFFIX, ubnt.com
+HOST-SUFFIX, uchicago.edu
+HOST-SUFFIX, udn.com
+HOST-SUFFIX, ugo.com
+HOST-SUFFIX, uhdwallpapers.org
+HOST-SUFFIX, ulyssesapp.com
+HOST-SUFFIX, unblockdmm.com
+HOST-SUFFIX, unblocksites.co
+HOST-SUFFIX, unpo.org
+HOST-SUFFIX, unsplash.com
+HOST-SUFFIX, untraceable.us
+HOST-SUFFIX, uploaded.net
+HOST-SUFFIX, uProxy.org
+HOST-SUFFIX, upwork.com
+HOST-SUFFIX, urchin.com
+HOST-SUFFIX, urlparser.com
+HOST-SUFFIX, us.to
+HOST-SUFFIX, usertrust.com
+HOST-SUFFIX, usgs.gov
+HOST-SUFFIX, usma.edu
+HOST-SUFFIX, uspto.gov
+HOST-SUFFIX, ustream.tv
+HOST-SUFFIX, v.gd
+HOST-SUFFIX, v2ex.co
+HOST-SUFFIX, v2ex.com
+HOST-SUFFIX, v2ray.com
+HOST-SUFFIX, van001.com
+HOST-SUFFIX, vanpeople.com
+HOST-SUFFIX, vansky.com
+HOST-SUFFIX, vbstatic.co
+HOST-SUFFIX, venchina.com
+HOST-SUFFIX, venturebeat.com
+HOST-SUFFIX, veoh.com
+HOST-SUFFIX, verizonwireless.com
+HOST-SUFFIX, viber.com
+HOST-SUFFIX, vid.me
+HOST-SUFFIX, videomega.tv
+HOST-SUFFIX, vidinfo.org
+HOST-SUFFIX, vimeo.com
+HOST-SUFFIX, vimeocdn.com
+HOST-SUFFIX, vimperator.org
+HOST-SUFFIX, vine.co
+HOST-SUFFIX, visibletweets.com
+HOST-SUFFIX, viu.com
+HOST-SUFFIX, vivaldi.com
+HOST-SUFFIX, voachinese.com
+HOST-SUFFIX, vocativ.com
+HOST-SUFFIX, vox-cdn.com
+HOST-SUFFIX, vpnaccount.org
+HOST-SUFFIX, vpnbook.com
+HOST-SUFFIX, vpngate.net
+HOST-SUFFIX, vsco.co
+HOST-SUFFIX, vultr.com
+HOST-SUFFIX, vzw.com
+HOST-SUFFIX, w.org
+HOST-SUFFIX, w3schools.com
+HOST-SUFFIX, wattpad.com
+HOST-SUFFIX, web2project.net
+HOST-SUFFIX, webfreer.com
+HOST-SUFFIX, weblagu.com
+HOST-SUFFIX, websnapr.com
+HOST-SUFFIX, webtype.com
+HOST-SUFFIX, webwarper.net
+HOST-SUFFIX, wenxuecity.com
+HOST-SUFFIX, westca.com
+HOST-SUFFIX, westpoint.edu
+HOST-SUFFIX, whatbrowser.org
+HOST-SUFFIX, wikileaks.info
+HOST-SUFFIX, wikileaks.org
+HOST-SUFFIX, wikileaks-forum.com
+HOST-SUFFIX, wikimedia.org
+HOST-SUFFIX, wikipedia.com
+HOST-SUFFIX, wikipedia.org
+HOST-SUFFIX, wn.com
+HOST-SUFFIX, wordpress.com
+HOST-SUFFIX, workflow.is
+HOST-SUFFIX, workflowy.com
+HOST-SUFFIX, worldcat.org
+HOST-SUFFIX, wow.com
+HOST-SUFFIX, wp.com
+HOST-SUFFIX, wsj.com
+HOST-SUFFIX, wsj.net
+HOST-SUFFIX, wwitv.com
+HOST-SUFFIX, xanga.com
+HOST-SUFFIX, xclient.info
+HOST-SUFFIX, xda-developers.com
+HOST-SUFFIX, xeeno.com
+HOST-SUFFIX, xiti.com
+HOST-SUFFIX, xuite.net
+HOST-SUFFIX, xvideos.com
+HOST-SUFFIX, yahoo.com
+HOST-SUFFIX, yahooapis.com
+HOST-SUFFIX, yasni.co.uk
+HOST-SUFFIX, yastatic.net
+HOST-SUFFIX, yeeyi.com
+HOST-SUFFIX, yesasia.com
+HOST-SUFFIX, yes-news.com
+HOST-SUFFIX, yidio.com
+HOST-SUFFIX, yimg.com
+HOST-SUFFIX, ying.com
+HOST-SUFFIX, yorkbbs.ca
+HOST-SUFFIX, youmaker.com
+HOST-SUFFIX, yourlisten.com
+HOST-SUFFIX, youtu.be
+HOST-SUFFIX, yoyo.org
+HOST-SUFFIX, zacebook.com
+HOST-SUFFIX, zalmos.com
+HOST-SUFFIX, zaobao.com.sg
+HOST-SUFFIX, zeutch.com
+HOST-SUFFIX, zoom.us
+HOST-SUFFIX, zynamics.com
+
+# > Force some domains which are fucked by GFW while resolving DNS, or do not respect the system Proxy
+HOST-KEYWORD, appledaily
+HOST-KEYWORD, beetalk
+HOST-KEYWORD, blogspot
+HOST-KEYWORD, dropbox
+HOST-KEYWORD, facebook
+HOST-KEYWORD, instagram
+HOST-KEYWORD, twitter
+HOST-KEYWORD, whatsapp
+HOST-SUFFIX, 1e100.net
+HOST-SUFFIX, 2mdn.net
+HOST-SUFFIX, abc.xyz
+HOST-SUFFIX, akamai.net
+HOST-SUFFIX, appspot.com
+HOST-SUFFIX, autodraw.com
+HOST-SUFFIX, bandwagonhost.com
+HOST-SUFFIX, blogblog.com
+HOST-SUFFIX, chromeexperiments.com
+HOST-SUFFIX, creativelab5.com
+HOST-SUFFIX, crittercism.com
+HOST-SUFFIX, culturalspot.org
+HOST-SUFFIX, dartlang.org
+HOST-SUFFIX, fb.com
+HOST-SUFFIX, fb.me
+HOST-SUFFIX, fbcdn.net
+HOST-SUFFIX, fbsbx.com
+HOST-SUFFIX, gcr.io
+HOST-SUFFIX, gmail.com
+HOST-SUFFIX, gosetsuden.jp
+HOST-SUFFIX, gvt1.com
+HOST-SUFFIX, gwtproject.org
+HOST-SUFFIX, heroku.com
+HOST-SUFFIX, html5rocks.com
+HOST-SUFFIX, keyhole.com
+HOST-SUFFIX, kobo.com
+HOST-SUFFIX, kobobooks.com
+HOST-SUFFIX, madewithcode.com
+HOST-SUFFIX, material.io
+HOST-SUFFIX, messenger.com
+HOST-SUFFIX, netmarble.com
+HOST-SUFFIX, nianticlabs.com
+HOST-SUFFIX, pinimg.com
+HOST-SUFFIX, pubnub.com
+HOST-SUFFIX, scdn.co
+HOST-SUFFIX, t.co
+HOST-SUFFIX, tensorflow.org
+HOST-SUFFIX, toggleable.com
+HOST-SUFFIX, torproject.org
+HOST-SUFFIX, twimg.com
+HOST-SUFFIX, twitpic.com
+HOST-SUFFIX, unfiltered.news
+HOST-SUFFIX, waveprotocol.org
+HOST-SUFFIX, webmproject.org
+HOST-SUFFIX, webrtc.org
+HOST-KEYWORD, dlercloud
+
+# > Amazon
+IP-CIDR, 13.32.0.0/16
+IP-CIDR, 13.33.0.0/16
+IP-CIDR, 13.35.0.0/17
+IP-CIDR, 18.184.0.0/15
+IP-CIDR, 18.194.0.0/15
+IP-CIDR, 18.208.0.0/13
+IP-CIDR, 18.232.0.0/14
+IP-CIDR, 52.200.0.0/13
+IP-CIDR, 52.58.0.0/15
+IP-CIDR, 52.74.0.0/16
+IP-CIDR, 52.77.0.0/16
+IP-CIDR, 52.84.0.0/15
+IP-CIDR, 54.156.0.0/14
+IP-CIDR, 54.226.0.0/15
+IP-CIDR, 54.230.156.0/22
+IP-CIDR, 54.93.0.0/16
+
+# > Facebook
+IP-CIDR, 103.4.96.0/22
+IP-CIDR, 129.134.0.0/17
+IP-CIDR, 157.240.0.0/17
+IP-CIDR, 173.252.64.0/19
+IP-CIDR, 173.252.96.0/19
+IP-CIDR, 179.60.192.0/22
+IP-CIDR, 185.60.216.0/22
+IP-CIDR, 204.15.20.0/22
+IP-CIDR, 31.13.24.0/21
+IP-CIDR, 31.13.64.0/18
+IP-CIDR, 45.64.40.0/22
+IP-CIDR, 66.220.144.0/20
+IP-CIDR, 69.171.224.0/19
+IP-CIDR, 69.63.176.0/20
+IP-CIDR, 74.119.76.0/22
+
+
+# > Kakao Talk
+IP-CIDR, 1.201.0.0/24
+IP-CIDR, 103.246.56.0/22
+IP-CIDR, 103.27.148.0/22
+IP-CIDR, 110.76.140.0/22
+IP-CIDR, 113.61.104.0/22
+IP-CIDR, 27.0.236.0/22
+
+# > LINE
+IP-CIDR, 103.2.28.0/22
+IP-CIDR, 119.235.224.0/21
+IP-CIDR, 119.235.232.0/23
+IP-CIDR, 119.235.235.0/24
+IP-CIDR, 119.235.236.0/23
+IP-CIDR, 125.6.146.0/24
+IP-CIDR, 125.6.149.0/24
+IP-CIDR, 125.6.190.0/24
+IP-CIDR, 125.209.208.0/20
+IP-CIDR, 203.104.103.0/24
+IP-CIDR, 203.104.128.0/20
+IP-CIDR, 203.174.66.64/26
+IP-CIDR, 203.174.77.0/24
+
+# > Potato Chat
+IP-CIDR, 13.251.24.157/24
+IP-CIDR, 13.251.41.203/24
+IP-CIDR, 17.252.156.147/24
+IP-CIDR, 17.252.157.26/24
+
+# > SoftLayer
+IP-CIDR, 74.86.0.0/16
+IP-CIDR, 75.126.0.0/16
+IP-CIDR, 174.37.0.0/16
+IP-CIDR, 208.43.0.0/16
+
+# > Others
+
+# Telegram DIRECT
+HOST-SUFFIX,t.me,DIRECT
+HOST-SUFFIX,tdesktop.com,DIRECT
+HOST-SUFFIX,telegra.ph,DIRECT
+HOST-SUFFIX,telegram.me,DIRECT
+HOST-SUFFIX,telegram.org,DIRECT
+IP-CIDR,91.108.56.0/22,DIRECT
+IP-CIDR,91.108.4.0/22,DIRECT
+IP-CIDR,91.108.8.0/22,DIRECT
+IP-CIDR,91.108.16.0/22,DIRECT
+IP-CIDR,91.108.12.0/22,DIRECT
+IP-CIDR,149.154.160.0/20,DIRECT
+IP-CIDR,91.105.192.0/23,DIRECT
+IP-CIDR,91.108.20.0/22,DIRECT
+IP-CIDR,185.76.151.0/24,DIRECT
+
+HOST-SUFFIX,ampproject.org,DIRECT
+HOST-SUFFIX,ampproject.net,DIRECT
+HOST-SUFFIX,analytics.twitter.com,DIRECT
+HOST-SUFFIX,g.whatsapp.net,DIRECT
+HOST-SUFFIX,us-west-2.amazonaws.com,DIRECT
+
+
+
+//user agent rules
+USER-AGENT,telegram,DIRECT
+USER-AGENT,wechat,DIRECT
+USER-AGENT,micromessenger,DIRECT
+USER-AGENT,QQ*,DIRECT
+USER-AGENT,TIM*,DIRECT
+USER-AGENT,%E7%BD%91%E6%98%93,DIRECT
+USER-AGENT,netease,DIRECT
+
+# 抗 DNS 污染
+//Google
+HOST-SUFFIX,fonts.googleapis.com,PROXY
+HOST-SUFFIX,fonts.gstatic.com,PROXY
+HOST-SUFFIX,goo.gl,DIRECT
+HOST-SUFFIX,gvt1.com,PROXY
+HOST-SUFFIX,youtu.be,DIRECT
+HOST-SUFFIX,ytimg.com,DIRECT
+HOST-SUFFIX,ggpht.com,DIRECT
+# Direct
+// 本地/局域网地址
+HOST-SUFFIX,ip6-localhost,DIRECT
+HOST-SUFFIX,ip6-loopback,DIRECT
+HOST-SUFFIX,local,DIRECT
+HOST-SUFFIX,localhost,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+IP6-CIDR,::1/128,DIRECT
+IP6-CIDR,fc00::/7,DIRECT
+IP6-CIDR,fe80::/10,DIRECT
+IP6-CIDR,fd00::/8,DIRECT
+HOST-SUFFIX,apple.com,DIRECT
+HOST-SUFFIX,crashlytics.com,DIRECT
+HOST-SUFFIX,icloud.com,DIRECT
+HOST-SUFFIX,itunes.com,DIRECT
+HOST-SUFFIX,push-apple.com.akadns.net,DIRECT
+HOST-SUFFIX,aaplimg.com,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+USER-AGENT,%E5%9C%B0%E5%9B%BE*,DIRECT
+USER-AGENT,%E8%AE%BE%E7%BD%AE*,DIRECT
+USER-AGENT,*com.apple.mobileme.fmip1,DIRECT
+USER-AGENT,*WeatherFoundation*,DIRECT
+USER-AGENT,AssistantServices*,DIRECT
+USER-AGENT,MobileAsset*,DIRECT
+USER-AGENT,Siri*,DIRECT
+USER-AGENT,cloudd*,DIRECT
+USER-AGENT,com.apple.appstored*,DIRECT
+USER-AGENT,com.apple.geod*,DIRECT
+USER-AGENT,com.apple.Maps,DIRECT
+USER-AGENT,FindMyFriends*,DIRECT
+USER-AGENT,FindMyiPhone*,DIRECT
+USER-AGENT,FMDClient*,DIRECT
+USER-AGENT,FMFD*,DIRECT
+USER-AGENT,fmflocatord*,DIRECT
+USER-AGENT,geod*,DIRECT
+USER-AGENT,locationd*,DIRECT
+USER-AGENT,Maps*,DIRECT
+USER-AGENT,*Passbook*,DIRECT
+USER-AGENT,passd*,DIRECT
+USER-AGENT,seld*,DIRECT
+USER-AGENT,trustd*,DIRECT
+USER-AGENT,Wallet*,DIRECT
+USER-AGENT,AssistantServices*,DIRECT
+USER-AGENT,MobileAsset*,DIRECT
+USER-AGENT,Siri*,DIRECT
+HOST-SUFFIX,api.smoot.apple.com.cn,DIRECT
+HOST-SUFFIX,captive.apple.com,DIRECT
+HOST-SUFFIX,cn-smp-paymentservices.apple.com,DIRECT
+HOST-SUFFIX,smp-device.apple.com,DIRECT
+HOST-SUFFIX,smp-device-content.apple.com,DIRECT
+HOST-SUFFIX,sp.itunes.apple.com,DIRECT
+HOST-SUFFIX,ess.apple.com,DIRECT
+HOST-SUFFIX,push.apple.com,DIRECT
+HOST-SUFFIX,gs-loc.apple.com,DIRECT
+HOST-SUFFIX,ls.apple.com,DIRECT
+
+HOST-SUFFIX,softpedia.com,DIRECT
+HOST-SUFFIX,mtalk.google.com,DIRECT
+
+# Telegram direct
+HOST-SUFFIX,t.me,direct
+HOST-SUFFIX,tdesktop.com,direct
+HOST-SUFFIX,telegra.ph,direct
+HOST-SUFFIX,telegram.me,direct
+HOST-SUFFIX,telegram.org,direct
+IP-CIDR,91.108.56.0/22,direct
+IP-CIDR,91.108.4.0/22,direct
+IP-CIDR,91.108.8.0/22,direct
+IP-CIDR,91.108.16.0/22,direct
+IP-CIDR,91.108.12.0/22,direct
+IP-CIDR,149.154.160.0/20,direct
+IP-CIDR,91.105.192.0/23,direct
+IP-CIDR,91.108.20.0/22,direct
+IP-CIDR,185.76.151.0/24,direct
+
+HOST-SUFFIX,ampproject.org,direct
+HOST-SUFFIX,ampproject.net,direct
+HOST-SUFFIX,analytics.twitter.com,direct
+HOST-SUFFIX,g.whatsapp.net,direct
+HOST-SUFFIX,us-west-2.amazonaws.com,direct
+
+
+#//user agent rules
+USER-AGENT,telegram,direct
+USER-AGENT,wechat,DIRECT
+USER-AGENT,micromessenger,DIRECT
+USER-AGENT,QQ*,DIRECT
+USER-AGENT,TIM*,DIRECT
+USER-AGENT,%E7%BD%91%E6%98%93,DIRECT
+USER-AGENT,netease,DIRECT
+
+# 抗 DNS 污染
+//Google
+HOST-SUFFIX,fonts.googleapis.com,PROXY
+HOST-SUFFIX,fonts.gstatic.com,PROXY
+HOST-SUFFIX,goo.gl,direct
+HOST-SUFFIX,gvt1.com,PROXY
+HOST-SUFFIX,youtu.be,direct
+HOST-SUFFIX,ytimg.com,direct
+HOST-SUFFIX,ggpht.com,direct
+damysus-engine.homagames.com
+example.org
+www.garron.me
+direct.quic-webcast-proxy-i18n-v3.useast2a.byteglb.com
+ichef.bbci.co.uk
+arabic.cnn.com
+perf.clvp.byteoversea.net
+whoumtefie.com
+assets.msn.com
+shared.eu.a.pvp.net
+telemetry.sgp.pvp.net
+probuilds.net
+op.gg
+euw.op.gg
+na.op.gg
+br.op.gg
+i.scdn.co
+ipv6.msftconnecttest.com
+catalog.gamepass.com
+us-east1-aws-acc.api.snapchat.com
+europe-west1-gcp.api.snapchat.com
+aws.api.snapchat.com
+usc1-gcp-v62.api.snapchat.com
+app.snapchat.com
+www.msftconnecttest.com
+config.player.p7s1.io
+cdn.zomap.de
+player-feedback.p7s1video.net
+cerberus.sqrt-5041.de
+atv.somquery.sqrt-5041.de
+feeds.bbci.co.uk
+collector.azure.eaglex.ic.gov
+iab-category-finder-xddc4j3vva-ey.a.run.app
+cockpit.symplr.de
+cdn.privacy-mgmt.com
+www.bloggerei.de
+i.postimg.cc
+ocsp.starfieldtech.com
+www.borncity.com
+www.intelligence.gov
+ic.gov
+collector.azure.microsoft.scloud
+clientstream.launchdarkly.com
+acr-eu-prd.samsungcloud.tv
+w3-reporting-nel.reddit.com
+gql-realtime.reddit.com
+ext3-sto2.steamserver.net
+ext2-fra2.steamserver.net
+glz-eu-1.eu.a.pvp.net
+eu.vg.ac.pvp.net
+edgedl.me.gvt1.com
+b79c66077e27a1c100292a6aa5da291cfa7da7ef982a7d0d2708be38d76b31f.us-east-1.prod.service.minerva.devices.a2z.com
+a1ewuiz2p7wdvw-ats.iot.us-west-2.amazonaws.com.localdomain
+9dd431a2-3fc8-411c-ae4e-605764fc78c2-netseer-ipaddr-assoc.xy.fbcdn.net
+9dd431a2-3fc8-411c-ae4e-605764fc78c2-netseer-ipaddr-assoc.xz.fbcdn.net
+93f4ee66-4886-4940-b1ec-f83b4460e84c-netseer-ipaddr-assoc.xy.fbcdn.net
+scontent-vie1-1.cdninstagram.com
+93f4ee66-4886-4940-b1ec-f83b4460e84c-netseer-ipaddr-assoc.xz.fbcdn.net
+api.rudderstack.com
+89706d20-f441-438c-8185-b9ed8e0554aa-netseer-ipaddr-assoc.xy.fbcdn.net
+451c2f1b-f0b4-4cfd-82a8-c087a5b860a6-netseer-ipaddr-assoc.xy.fbcdn.net
+89706d20-f441-438c-8185-b9ed8e0554aa-netseer-ipaddr-assoc.xz.fbcdn.net
+5bb3da9b-b77e-4662-9b2f-2989d46f3f7f-netseer-ipaddr-assoc.xz.fbcdn.net
+451c2f1b-f0b4-4cfd-82a8-c087a5b860a6-netseer-ipaddr-assoc.xz.fbcdn.net
+b8d80e62-e6ef-4b40-b4ee-3dfb0da24662-netseer-ipaddr-assoc.xz.fbcdn.net
+b8d80e62-e6ef-4b40-b4ee-3dfb0da24662-netseer-ipaddr-assoc.xy.fbcdn.net
+bolt-gcdn.sc-cdn.net
+cf-st.sc-cdn.net
+aws-proxy-gcp.api.sc-gw.com
+aws-proxy-gcp.api.snapchat.com
+statics.teams.cdn.live.net
+jsdelivr.map.fastly.net
+widgets.shopstyle.com
+www.yahoo.com
+www.microsoft.com
+cdn27842369.ahacdn.me
+r10.o.lencr.org
+cdn.storageimagedisplay.com
+cdn.creative-stat1.com
+obtaintrout.com
+bathingdelicatedemise.com
+cdn.show-creative1.com
+examplesclasp.com
+images.gutefrage.net
+with-contentpass-net.b-cdn.net
+cp.gutefrage.net
+ub.gutefrage.net
+gutefrage.h5v.eu
+lookebonyhill.com
+a1887.dscq.akamai.net
+click-mapper.com
+ujnjcvpsuxrhy.com
+nooglaug.net
+ocbrawagcat.com
+analytics.plus500.com
+cdn.taboola.com
+cdn-main.plus500.com
+dev.visualwebsiteoptimizer.com
+www.plus500.com
+bitcoin-kopen.com
+www.bitcoin-kopen.com
+nu-tracker.com
+adminpanel.app
+ntp2.aliyun.com
+notify.dcbprotect.prodeuw1.services.evina.com
+static.dcbprotect.prodeuw1.services.evina.com
+static.dcbprotect.com
+ws.dcbprotect.com
+tbtv4.com
+mp.mobile-gw.com
+hheroesmobile.com
+fp2e7a.wpc.phicdn.net
+hunchbackconebelfry.com
+ghs.googlehosted.com
+www.rewardany.com
+vip.share365.net
+time1.aliyun.com
+loijtoottuleringv.info
+time2.aliyun.com
+evelynthankregion.com
+pubtrky.com
+crrepo.com
+youradexchange.com
+aa015h6buqvih86i1.api.met.no
+auto-deploy.pages.dev
+api.snapcraft.io
+vpn-center.com
+click.vpn-center.com
+at-cet.exp.fastly-masque.net
+eatmenttogeth.com
+search.oyjurytour.live
+willpeweye.info
+antivi.net
+guidesite.info
+podefr2.net
+dc-ssp-trk.altairfomalhaut.com
+rtb.altairfomalhaut.com
+c2.crmdump.com
+cdn.ampproject.org
+url.fortifi.zone
+url.totalav.com
+mtxserv.com
+avs-alexa-na.amazon.com
+api-h2.tiktokv.com
+api21-h2.tiktokv.com
+ns-440.awsdns-55.com
+ns-722.awsdns-26.net
+ns-1475.awsdns-56.org
+ns-1574.awsdns-04.co.uk
+tiktokcdn-com.akamaized.net
+m.tiktok.com
+t.tiktok.com
+tiktok.com
+tiktok.org
+tiktokcdn.com
+tiktokv.com
+vt.tiktok.com
+v19.tiktokcdn.com
+v16.tiktokcdn.com
+api.tiktokv.com
+mon.tiktokv.com
+ib.tiktokv.com
+p16-tiktokcdn-com.akamaized.net
+v16-tiktokcdn-com.akamaized.net
+47.252.102.50
+161.117.71.74
+47.252.102.182
+161.117.71.35
+161.117.70.89
+161.117.70.145
+161.117.70.136
+47.252.50.101
+47.252.102.193
+161.117.71.34
+161.117.71.73
+47.252.102.48
+47.252.50.157
+34.196.79.125
+47.252.102.198
+161.117.70.68
+musical.ly
+muscdn.com
+isnssdk.com
+musemuse.cn
+tiktokcdn-us.com
