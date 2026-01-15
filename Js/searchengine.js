@@ -2,7 +2,7 @@
 // @name         محرك بحث تجميعي للتبديل بين التنقل + تحسينات GitHub (metasesrch)
 // @namespace    http://tampermonkey.net/
 // @version      v1.40
-// @author       晚风知我意
+// @author        晚风知我意
 // @match              *://*.bing.com/*search?*
 // @match              *://*.bing.com/videos/riverview/relatedvideo?*
 // @match              *://duckduckgo.com/*
