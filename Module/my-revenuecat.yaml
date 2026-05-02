@@ -2,15 +2,20 @@ name: egern scrip
 description: anybox incognito teak browser atomic jodel
 icon: https://img.cdn-worldsapps.com/apps/1616105820/icon-apps-like-egern.jpg
 scriptings:
-- http_request:
-    name: ^https?:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$)
-    match: ^https?:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$)
-    script_url: https://raw.githubusercontent.com/sultan1sa/Rewrite/main/all/Revenuecat.js
 - http_response:
-    name: ^https?:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$)
-    match: ^https?:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$)
-    script_url: https://raw.githubusercontent.com/sultan1sa/Rewrite/main/all/Revenuecat.js
+    name: revenuecat
+    match: https?:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/?(.*?)*$)
+    script_url: https://raw.githubusercontent.com/Sultan11duck/Script/main/js/revenuecat.js
+    timeout: 60
+    body_required: true
+- http_response:
+    name: revenuecat
+    match: https?:\/\/((api\.(revenuecat|rc-backup)|isi\.csan\.goodnotes)\.com|rc\.visionarytech\.ltd)\/.+\/(receipts$|subscribers\/?(.*?)*$|offers$)
+    script_url: https://raw.githubusercontent.com/Sultan11duck/Script/main/js/revenuecat.js
+    timeout: 60
     body_required: true
 mitm:
   hostnames:
-  - api.revenuecat.com
+    includes:
+    - api.revenuecat.com
+    - api.rc-backup.com
