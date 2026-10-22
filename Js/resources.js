@@ -1,4 +1,4 @@
-// ==== Parser Helper UI by Quantumult-X (918+) ====
+// ==== Parse Helper UI by Quantumult-X (918+) ====
 var $parser = $parser || {};
 
 // schema：作者声明的全部参数（不带 value）
